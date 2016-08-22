@@ -11,8 +11,8 @@ dataSource:
     jmxExport: true
     #driverClassName: org.h2.Driver
     #driverClassName: mongodb-driver-3.0.2.jar
-    #username: man
-    #password: food
+    #username: sa
+    #password: 
     
 
 environments:
