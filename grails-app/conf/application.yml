@@ -1,0 +1,140 @@
+---
+#hibernate:
+ #   cache:
+  #      queries: false
+   #     use_second_level_cache: true
+    #    use_query_cache: false
+     #   region.factory_class: org.hibernate.cache.ehcache.SingletonEhCacheRegionFactory
+
+dataSource:
+    pooled: true
+    jmxExport: true
+    #driverClassName: org.h2.Driver
+    #driverClassName: mongodb-driver-3.0.2.jar
+    #username: man
+    #password: food
+    
+
+environments:
+    development:
+      grails:
+        mongodb:
+          host: "192.168.178.116"
+          port: 27017
+          databaseName: development
+          
+          #(alternative)#connectionString: "mongodb://192.168.178.116:27017/development"          
+          #username: "man"
+          #password: "food"
+          
+     #   stateless = false // whether to use stateless sessions by default
+     #   // Alternatively, using 'replicaSet' or 'connectionString'
+     #   // replicaSet = [ "localhost:27017", "localhost:27018"]
+     #   // connectionString = "mongodb://localhost/mydb"
+#
+#        options {
+#            connectionsPerHost = 10 // The maximum number of connections allowed per host
+#            threadsAllowedToBlockForConnectionMultiplier = 5
+#            maxWaitTime = 120000 // Max wait time of a blocking thread for a connection.
+#            connectTimeout = 0 // The connect timeout in milliseconds. 0 == infinite
+#            socketTimeout = 0 // The socket timeout. 0 == infinite
+#            socketKeepAlive = false // Whether or not to have socket keep alive turned on
+#            writeNumber = 0 // This specifies the number of servers to wait for on the write operation
+#            writeTimeout = 0 // The timeout for write operations in milliseconds
+#            writeFsync = false // Whether or not to fsync
+#            autoConnectRetry = false // Whether or not the system retries automatically on a failed connect
+#            maxAutoConnectRetryTime = 0 // The maximum amount of time in millisecons to spend retrying
+#            slaveOk = false // Specifies if the driver is allowed to read from secondaries or slaves
+#            ssl = false // Specifies if the driver should use an SSL connection to Mongo
+#            sslSocketFactory = … // Specifies the SSLSocketFactory to use for creating SSL connections
+#        }
+          
+    test:
+      grails:
+        mongodb:
+          connectionString: "mongodb://192.168.178.116:27017/test"
+    production:
+      grails:
+        mongodb:
+          connectionString: "mongodb://192.168.178.116:27017/production"
+
+
+---
+---
+grails:
+    profile: web
+    codegen:
+        defaultPackage: man.vs.food
+    spring:
+        transactionManagement:
+            proxies: false
+info:
+    app:
+        name: '@info.app.name@'
+        version: '@info.app.version@'
+        grailsVersion: '@info.app.grailsVersion@'
+spring:
+    groovy:
+        template:
+            check-template-location: false
+# Spring Actuator Endpoints are Disabled by Default
+endpoints:
+    enabled: false
+    jmx:
+        enabled: true
+
+---
+grails:
+    mime:
+        disable:
+            accept:
+                header:
+                    userAgents:
+                        - Gecko
+                        - WebKit
+                        - Presto
+                        - Trident
+        types:
+            all: '*/*'
+            atom: application/atom+xml
+            css: text/css
+            csv: text/csv
+            form: application/x-www-form-urlencoded
+            html:
+              - text/html
+              - application/xhtml+xml
+            js: text/javascript
+            json:
+              - application/json
+              - text/json
+            multipartForm: multipart/form-data
+            pdf: application/pdf
+            rss: application/rss+xml
+            text: text/plain
+            hal:
+              - application/hal+json
+              - application/hal+xml
+            xml:
+              - text/xml
+              - application/xml
+    urlmapping:
+        cache:
+            maxsize: 1000
+    controllers:
+        defaultScope: singleton
+    converters:
+        encoding: UTF-8
+    views:
+        default:
+            codec: html
+        gsp:
+            encoding: UTF-8
+            htmlcodec: xml
+            codecs:
+                expression: html
+                scriptlets: html
+                taglib: none
+                staticparts: none
+endpoints:
+    jmx:
+        unique-names: true

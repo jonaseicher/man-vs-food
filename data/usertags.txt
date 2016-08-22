@@ -1,0 +1,43 @@
+male
+female
+age:12-15
+age:16-19
+age:20-29
+age:30-39
+age:40-49
+age:50-59
+age:60-69
+age:70+
+cyclist(casual)
+cyclist(enthusiast)
+cyclist(pro)
+swimmer(casual)
+swimmer(enthusiast)
+swimmer(pro)
+runner(casual)
+runner(enthusiast)
+runner(pro)
+bodybuilder(casual)
+bodybuilder(enthusiast)
+bodybuilder(pro)
+demanding physical work
+manual labor
+desk job
+gym-bro
+couch-potato
+underweight
+overweight
+buff
+fat
+skinny
+pregnant
+lactose-sensitive
+lactose-intolerant
+gluten-sensitive
+gluten-intolerant
+diabetes
+vegetarian
+vegan
+paleo-diet
+low-carb-eater
+carb-lover

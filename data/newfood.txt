@@ -1,0 +1,723 @@
+Aal	27.77	5.77	226	946	23.3	14.8	0	 	59.3	0	gluten-free	lactose-free	fructose-free	
+Aal, geräuchert	27.77	5.77	313	1311	17.9	26.8	0	 	53.9	0	low-gluten	low-lactose	low-fructose	
+Acerola, Konzentrat	27.77	15.77	261	1093	5.6	2.7	57	0	1.5	4.75	low-gluten	lactose-free	fructose	
+Acerola, Saft	27.77	5.77	22	92	0.3	0.3	4.5	0	94.3	0.38	low-gluten	lactose-free	low-fructose	
+Acerolakirsche, Antillenkirsche	27.77	5.77	16	67	0.2	0.2	2.6	2	89	0.22	gluten-free	lactose-free	low-fructose	
+Agavensirup	27.77	15.77	287	1202	0	0.9	70	0.2	 	5.83	gluten	lactose-free	fructose	
+Ahornsirup	67.77	25.77	244	1022	0	0.2	59.5	 	 	4.96	gluten-free	lactose-free	fructose	
+Altbier, Dunkles Bier	87.77	5.77	43	180	0.5	0	3.5	0	92	0.29	gluten	low-lactose	low-fructose	
+Amaranth	27.77	15.77	354	1482	14.4	6.1	55.4	0	11.1	4.62	gluten-free	lactose-free	fructose-free	
+Amerikaner	87.77	25.77	300	1256	5	7.7	55	2	 	4.58	gluten	lactose	fructose	
+Ananas	67.77	5.77	45	188	0.6	0.2	8.21	1.5	84.7	0.68	gluten-free	lactose-free	low-fructose	
+Ananas (Dose)	67.77	5.77	53	222	0.5	0.1	10.5	1	82	0.88	low-gluten	low-lactose	low-fructose	
+Ananassaft	27.77	5.77	47	197	0.3	0.1	10.3	0	85.6	0.86	low-gluten	lactose-free	low-fructose	
+Apfel	27.77	5.77	54	226	0.3	0.6	11.4	2	84.4	0.95	gluten-free	lactose-free	fructose	
+Apfel, getrocknet	27.77	25.77	311	1302	1.3	0.3	64	10.1	24.5	5.33	low-gluten	lactose-free	fructose	
+Apfel, Konfitüre	67.77	25.77	258	1080	0.1	0.1	64	0.7	35	5.33	low-gluten	lactose-free	fructose	
+Apfelmus, Apfelkompott	27.77	5.77	79	331	0.2	0.1	19.2	2	84.3	1.6	low-gluten	lactose-free	fructose	
+Apfelsaft	27.77	5.77	37	155	0.1	0	8.6	0	88	0.72	low-gluten	lactose-free	fructose	
+Apfelstrudel	67.77	15.77	233	976	3.1	11.9	29	2	55	2.42	gluten	lactose	fructose	
+Apfeltasche	67.77	25.77	270	1131	4.1	8.2	45.5	 	47	3.79	gluten	lactose	fructose	
+Apfelwein	27.77	5.77	47	197	0	0	2.7	1	93	0.23	gluten-free	lactose-free	low-fructose	
+Appenzeller, 50%	27.77	5.77	386	1616	25.4	31.6	0	0	39	0	gluten-free	low-lactose	fructose-free	
+Aprikose	27.77	5.77	42	176	0.8	0.1	6.6	1.5	86.3	0.55	gluten-free	lactose-free	fructose	
+Aprikose getrocknet	27.77	15.77	240	1005	5	0.5	47.9	17.3	18	3.99	low-gluten	lactose-free	fructose	
+Aprikose, Konfitüre	67.77	25.77	248	1039	0.3	0.1	60.6	0.6	36.9	5.05	low-gluten	lactose-free	fructose	
+Aprikosen (Dose, mit Zucker)	67.77	5.77	490	2052	18.2	0	9	2	80.5	0.75	low-gluten	low-lactose	fructose	
+Artischocke	27.77	5.77	45	188	5	0.1	7	11	82.5	0.58	gluten-free	lactose-free	low-fructose	
+Aubergine	27.77	5.77	22	92	1	0.3	2.4	2.8	92.6	0.2	gluten-free	lactose-free	low-fructose	
+Auster (ausgelöst)	27.77	5.77	46	193	2.8	2.8	0.7	 	83	0.06	low-gluten	lactose-free	low-fructose	
+Austernpilze	27.77	5.77	11	46	2.3	0.2	0	5.9	90.9	0	gluten-free	lactose-free	fructose-free	
+Avocado	27.77	5.77	205	858	2	21.2	0.6	6.3	66	0.05	gluten-free	lactose-free	fructose-free	
+Avocadoöl	27.77	5.77	884	3702	0	100	0	0	 	0	gluten-free	lactose-free	fructose-free	
+Bückling	27.77	5.77	224	938	21	15.5	0	0	62	0	low-gluten	lactose-free	fructose-free	
+Back-Camembert, 45%	67.77	5.77	229	959	19	17	0	0	47	0	gluten	lactose	fructose-free	
+Backpulver	27.77	5.77	100	419	0.1	0	25	0	6	2.08	low-gluten	lactose-free	fructose-free	
+Bagel	87.77	25.77	263	1101	9.5	1.4	50.7	4	 	4.23	gluten	low-lactose	fructose	
+Baguette	87.77	25.77	299	1252	12.6	2.5	54	3	30	4.5	gluten	low-lactose	low-fructose	
+Baked Beans	27.77	5.77	155	649	6	5	22	6	 	1.83	low-gluten	lactose-free	low-fructose	
+Bambussprossen	27.77	5.77	30	126	2.6	0.3	3	0	91	0.25	gluten-free	lactose-free	fructose-free	
+Banane	67.77	15.77	95	398	1.4	0.3	19.6	1.8	73.9	1.63	gluten-free	lactose-free	fructose-free	
+Banane, getrocknet	87.77	25.77	308	1290	5.6	0.3	66	12	7.6	5.5	low-gluten	lactose-free	fructose-free	
+Banane, Nektar	87.77	15.77	61	255	0.3	0.1	14.7	0.4	 	1.23	low-gluten	lactose-free	fructose-free	
+Bergkäse 45%	27.77	5.77	386	1616	28.9	30	0	0	36	0	gluten-free	low-lactose	fructose-free	
+Berliner, Krapfen	87.77	25.77	303	1269	5.3	7.3	53.1	1.5	 	4.43	gluten	lactose	fructose	
+Bier, alkoholfrei	87.77	5.77	25	105	0.3	0	5.4	0	93	0.45	gluten	low-lactose	fructose	
+Bier, export	87.77	5.77	47	197	0.5	0	2.9	0	91.5	0.24	gluten	low-lactose	fructose	
+Bierhefe	27.77	5.77	339	1420	48	4.2	27	9.5	7.5	2.25	gluten	low-lactose	fructose	
+Bierschinken	27.77	5.77	169	708	16.5	11.5	0	0	58.8	0	low-gluten	low-lactose	low-fructose	
+Birkenpilz	27.77	5.77	18	75	3.1	0.6	0	6.5	92	0	gluten-free	lactose-free	fructose-free	
+Birne	27.77	5.77	51	214	0.3	0	10.4	3.3	84.3	0.87	gluten-free	lactose-free	fructose	
+Birne, Dose	67.77	5.77	62	260	0.3	0.2	13.7	2	80.4	1.14	low-gluten	low-lactose	fructose	
+Birne, Nektar	67.77	5.77	55	230	0.3	0.2	12.9	0.5	86.1	1.08	low-gluten	lactose-free	fructose	
+Biskuit (Löffelbiskuit)	67.77	25.77	407	1704	8.5	5	81	0	4	6.75	gluten	low-lactose	low-fructose	
+Bismarckhering	27.77	5.77	210	879	16.5	16	0	0	62.2	0	low-gluten	low-lactose	low-fructose	
+Bitterschokolade > 70%	27.77	15.77	539	2257	5.1	28.5	62.6	12	 	5.22	gluten-free	lactose	fructose	
+Blätterteig (TK)	87.77	25.77	375	1570	5	25	33	 	37	2.75	gluten	low-lactose	fructose-free	
+Blumenkohl	27.77	5.77	22	92	2.4	0.3	2.3	2.9	91.7	0.19	gluten-free	lactose-free	low-fructose	
+Blutwurst	27.77	5.77	350	1466	12.5	32	0	0.2	55.9	0	low-gluten	low-lactose	low-fructose	
+Bockbier, hell	87.77	5.77	62	260	0.7	0	4.6	0	87	0.38	gluten	low-lactose	low-fructose	
+Bockwurst	27.77	5.77	277	1160	12.3	25.3	0	0	59.1	0	low-gluten	low-lactose	low-fructose	
+Bohnen (Dose)	27.77	5.77	22	92	1.2	0.1	3.9	1	92.8	0.33	low-gluten	low-lactose	fructose	
+Bohnen, getrocknet	27.77	15.77	290	1214	20.7	1.4	47.7	16.9	13.1	3.98	gluten-free	lactose-free	fructose	
+Bohnen, grün	27.77	5.77	32	134	2.4	0.2	5.1	1.9	90	0.43	gluten-free	lactose-free	low-fructose	
+Bohnen, rot, Kidneybohnen	27.77	5.77	105	440	9	0.6	16	7	 	1.33	low-gluten	lactose-free	fructose	
+Bohnen, weiß	27.77	5.77	238	997	21	1.7	34.7	23.2	10	2.89	gluten-free	lactose-free	fructose	
+Brötchen, Roggen	67.77	25.77	215	900	7	0	45	6	 	3.75	gluten	low-lactose	low-fructose	
+Brathering	27.77	5.77	204	854	16.8	15.2	0	0	62	0	low-gluten	lactose-free	low-fructose	
+Bratkartoffeln	87.77	15.77	145	607	1.9	8	16.3	0	 	1.36	low-gluten	lactose-free	fructose-free	
+Bratwurst	27.77	5.77	342	1432	12.7	32.4	0	 	52.7	0	low-gluten	low-lactose	low-fructose	
+Brennnessel	27.77	5.77	44	184	7	0.6	1.3	3.1	83	0.11	gluten-free	lactose-free	fructose-free	
+Brezel	87.77	25.77	380	1591	10	2.6	80	3	42	6.67	gluten	low-lactose	low-fructose	
+Brie, 50%	27.77	5.77	342	1432	22.6	27.9	0	0	44.3	0	gluten-free	low-lactose	fructose-free	
+Brioche	67.77	25.77	354	1482	8	10	58	1.7	39.8	4.83	gluten	lactose	low-fructose	
+Brokkoli	27.77	5.77	26	109	3.3	0.2	2.5	3	89.4	0.21	gluten-free	lactose-free	fructose	
+Brombeeren	27.77	5.77	44	184	1.2	1	6.2	3.2	84.6	0.52	gluten-free	lactose-free	fructose-free	
+Brombeeren, Konfitüre	67.77	25.77	259	1085	0.5	0.4	63.1	1.2	34	5.26	low-gluten	lactose-free	low-fructose	
+Brombeeren, Saft	27.77	5.77	38	159	0.3	0.6	7.8	0	90.9	0.65	low-gluten	lactose-free	low-fructose	
+Brot mit Quinoa (ca. 65 % Quinoa)	27.77	25.77	360	1508	12	7	61	11	 	5.08	gluten-free	lactose-free	fructose-free	
+Brotfrucht (Brotfruchtbaum)	67.77	15.77	103	431	1.1	0.2	27	4.9	 	2.25	gluten-free	lactose-free	fructose-free	
+Buchweizen	27.77	25.77	343	1436	12	3.4	72	10	12.8	6	gluten-free	lactose-free	fructose-free	
+Buchweizen, geschält	27.77	25.77	336	1407	9	1.7	70.7	3.7	12.8	5.89	gluten-free	lactose-free	fructose-free	
+Buchweizenmehl	27.77	15.77	354	1482	11.7	2.7	70.7	3.7	14.1	5.89	gluten-free	lactose-free	fructose-free	
+Bulgur	27.77	25.77	342	1432	12	1.3	76	18	 	6.33	gluten	lactose-free	fructose-free	
+Butter	27.77	5.77	754	3157	0.7	83.2	0.7	0	15.3	0.06	gluten-free	low-lactose	fructose-free	
+Butterkäse 30%	27.77	5.77	244	1022	26.3	15.4	0	0	52	0	gluten-free	low-lactose	fructose-free	
+Butterkäse 60%	27.77	5.77	380	1591	17	34.7	0	0	44	0	gluten-free	low-lactose	fructose-free	
+Buttermilch	27.77	5.77	35	147	3.5	0.5	4	0	91.2	0.33	gluten-free	lactose	fructose-free	
+Butterpilz	27.77	5.77	12	50	1.7	0.4	0.3	5.9	91.1	0.03	gluten-free	lactose-free	fructose-free	
+Butterschmalz	27.77	5.77	897	3756	0.3	99.5	0	0	0.3	0	gluten-free	low-lactose	fructose-free	
+Camembert, 30%	27.77	5.77	206	863	21.9	13.2	0	0	59.3	0	gluten-free	low-lactose	fructose-free	
+Camembert, 45%	27.77	5.77	285	1193	21	22.3	0	0	52	0	gluten-free	low-lactose	fructose-free	
+Camembert, 60%	27.77	5.77	366	1533	16.8	33.2	0	0	46	0	gluten-free	low-lactose	fructose-free	
+Cashewnuss	27.77	5.77	569	2383	17.2	42	30.5	2.9	4	2.54	gluten-free	lactose-free	fructose-free	
+Cervelat	27.77	5.77	394	1650	20.3	34.8	0	0	34.8	0	gluten-free	low-lactose	low-fructose	
+Champagner	27.77	5.77	79	331	0.2	0	3.5	0	 	0.29	gluten-free	lactose-free	fructose	
+Champignons, Pilze	27.77	5.77	15	63	2.7	0.2	0.6	2	93.6	0.05	gluten-free	lactose-free	fructose-free	
+Cheddar, Chester	27.77	5.77	391	1637	25.4	32.2	0	0	36.3	0	low-gluten	lactose	fructose-free	
+Cherimoya (Anone)	67.77	5.77	63	264	1.5	0.3	13.6	1	83	1.13	gluten-free	lactose-free	fructose	
+Chicorée	27.77	5.77	16	67	1.3	0.2	2.3	1.3	94.4	0.19	gluten-free	lactose-free	fructose-free	
+Chinakohl	27.77	5.77	11	46	1.2	0.3	0.8	0.9	95.4	0.07	gluten-free	lactose-free	fructose-free	
+Chips	87.77	25.77	539	2257	5.5	39.4	40.5	0	2.3	3.38	gluten	low-lactose	low-fructose	
+Clementinen	27.77	5.77	39	163	0.9	0	8.7	1.5	87.5	0.73	gluten-free	lactose-free	fructose	
+Cola	87.77	5.77	57	239	3.3	0	10.9	0	81.9	0.91	gluten	lactose-free	fructose	
+Corned beef	27.77	5.77	141	590	21.7	6	0	0	69.8	0	low-gluten	low-lactose	low-fructose	
+Cornflakes	87.77	25.77	356	1491	7.2	1	79.6	4	6	6.63	gluten	low-lactose	low-fructose	
+Couscous	67.77	5.77	129	540	1.7	8.3	11.9	1.3	 	0.99	gluten	lactose-free	fructose-free	
+Couscous, Vollkorn	27.77	25.77	327	1369	14	2.1	63.2	0	 	5.27	gluten	lactose-free	fructose-free	
+Creme fraiche	27.77	5.77	378	1583	2	40	2.5	0	54.5	0.21	gluten-free	lactose	fructose	
+Croissant	67.77	25.77	393	1646	5.7	25.8	34	1	31.6	2.83	gluten	low-lactose	low-fructose	
+Datteln, frisch	27.77	25.77	285	1193	2	1	66	8.8	21	5.5	gluten-free	lactose-free	fructose	
+Datteln, getrocknet	87.77	25.77	277	1160	2	0.5	65.2	9	22.3	5.43	gluten-free	lactose-free	fructose	
+Dessertwein	87.77	15.77	160	670	0.1	 	15	 	75	1.25	gluten-free	lactose-free	fructose	
+Diät-Vollbier	87.77	5.77	33	138	0.4	0	0.8	0	94	0.07	gluten	low-lactose	fructose	
+Dicke Bohnen, gekocht, TK	87.77	5.77	98	410	5.5	3.7	11	4	 	0.92	gluten-free	lactose-free	fructose	
+Dicke Bohnen, roh	27.77	5.77	84	352	6.9	0.5	12.5	5	 	1.04	gluten-free	lactose-free	fructose	
+Dinkel, (Grünkern) Korn	67.77	25.77	324	1357	11.5	2	63	8.8	12.5	5.25	gluten	lactose-free	low-fructose	
+Dinkelmehl	27.77	25.77	332	1390	9.7	2.6	77	8.4	10	6.42	gluten	lactose-free	low-fructose	
+Distelöl	27.77	5.77	879	3681	0	99.5	0	0	 	0	gluten-free	lactose-free	fructose-free	
+Donut	87.77	25.77	389	1629	6.6	23	38.9	0	0	3.24	gluten	low-lactose	fructose	
+Doppelbockbier, dunkel	87.77	5.77	69	289	0.8	0	3.8	0	87	0.32	gluten	low-lactose	fructose	
+Edamer, 30%	27.77	5.77	251	1051	26.4	16.2	0	0	49.1	0	gluten-free	low-lactose	fructose-free	
+Edamer, 45%	27.77	5.77	354	1482	24.8	28.3	0	0	39	0	gluten-free	low-lactose	fructose-free	
+Ei	27.77	5.77	158	662	12.8	11.5	0.7	1	74.4	0.06	gluten-free	lactose-free	fructose-free	
+Ei, getrocknet	27.77	5.77	570	2387	46	42	2.4	0	6	0.2	gluten-free	lactose-free	fructose-free	
+Eigelb, Eidotter	27.77	5.77	353	1478	16.1	31.9	0.3	0	50	0.03	gluten-free	lactose-free	fructose-free	
+Eigelb, getrocknet	27.77	5.77	669	2802	32	59	2.1	0	4	0.18	gluten-free	lactose-free	fructose-free	
+Eiklar	27.77	5.77	47	197	11	0	0.7	0	87.3	0.06	gluten-free	lactose-free	fructose-free	
+Eiklar, getrocknet	27.77	5.77	343	1436	77	0.1	0.7	0	9	0.06	gluten-free	lactose-free	fructose-free	
+Eisbein	27.77	5.77	186	779	19	12	0	0	72	0	low-gluten	lactose-free	fructose-free	
+Eisbergsalat	27.77	5.77	13	54	0.7	0.3	1.9	0.6	95.6	0.16	gluten-free	lactose-free	fructose-free	
+Eiscreme	67.77	15.77	216	905	3.7	11	28	1.2	72	2.33	gluten	lactose	fructose	
+Emmentaler, 45%	27.77	5.77	382	1600	28.7	29.7	0	0	29.6	0	gluten-free	low-lactose	fructose-free	
+Endivien	27.77	5.77	12	50	1.7	0.2	0.9	1.5	93.6	0.08	gluten-free	lactose-free	fructose-free	
+Ente	27.77	5.77	227	951	18.1	17.2	0	 	63.7	0	low-gluten	lactose-free	fructose-free	
+Erbsen	27.77	5.77	69	289	5.8	0.4	10.6	5.2	78.5	0.88	gluten-free	lactose-free	low-fructose	
+Erbsen, Dose	27.77	5.77	56	235	3.6	0.4	9.4	4	84.2	0.78	low-gluten	lactose-free	low-fructose	
+Erbsensuppe, Dose	67.77	25.77	316	1323	20.2	9.2	37.9	 	 	3.16	low-gluten	low-lactose	low-fructose	
+Erdbeere	27.77	5.77	32	134	0.8	0.4	5.5	1.6	89.9	0.46	gluten-free	lactose-free	fructose	
+Erdbeere, Konfitüre	67.77	25.77	256	1072	0.3	0.2	62.6	0.5	35	5.22	low-gluten	lactose-free	fructose	
+Erdnüsse, geröstet	27.77	5.77	585	2450	25.5	49.4	9.4	11.4	1.5	0.78	low-gluten	lactose-free	fructose	
+Erdnuss	27.77	5.77	564	2362	25.3	48	7.5	11.6	5.2	0.63	gluten-free	lactose-free	fructose	
+Erdnuss in Schokomantel	27.77	15.77	516	2161	9.8	26.8	59	2.8	 	4.92	low-gluten	low-lactose	fructose	
+Erdnussöl	27.77	5.77	900	3769	0	100	0.2	0	0.4	0.02	gluten-free	lactose-free	low-fructose	
+Erdnusspaste	27.77	5.77	630	2638	28	50	17	8.1	1.8	1.42	low-gluten	lactose-free	low-fructose	
+Essig	27.77	5.77	18	75	0	0	5.9	1	 	0.49	gluten-free	lactose-free	low-fructose	
+Essiggurken	27.77	5.77	27	113	1.6	0.3	4.5	0	94	0.38	gluten-free	lactose-free	fructose-free	
+Falafel	27.77	15.77	350	1466	14.5	31	47	9.8	21	3.92	low-gluten	lactose-free	low-fructose	
+Fasan	27.77	5.77	155	649	23.7	6.7	0	0	68	0	low-gluten	lactose-free	fructose-free	
+Feige, frisch	27.77	5.77	60	251	1.3	0.4	12.9	2	81	1.08	gluten-free	lactose-free	fructose	
+Feige, getrocknet	27.77	25.77	247	1034	3.9	1.3	54	12.9	28	4.5	gluten-free	lactose-free	fructose	
+Feldsalat	27.77	5.77	14	59	1.8	0.4	0.7	1.5	93.4	0.06	gluten-free	lactose-free	fructose-free	
+Fenchel	27.77	5.77	24	101	2.4	0.3	2.8	4.2	86	0.23	gluten-free	lactose-free	fructose-free	
+Feta 45%	27.77	5.77	236	988	16.7	18.1	0.5	0	59	0.04	gluten-free	low-lactose	fructose-free	
+Fischstäbchen	27.77	5.77	190	796	13	8	17	6	69	1.42	gluten	lactose	low-fructose	
+Fladenbrot	87.77	25.77	240	1005	7.4	1.3	48.5	2.8	37.9	4.04	gluten	low-lactose	low-fructose	
+Fleischkäse	27.77	5.77	320	1340	11.5	30.4	0	 	54.4	0	low-gluten	low-lactose	low-fructose	
+Fleischwurst	27.77	5.77	297	1244	13.2	27.1	0	 	57.3	0	low-gluten	low-lactose	low-fructose	
+Flunder	27.77	5.77	72	302	16.5	0.7	0	0	81.4	0	gluten-free	lactose-free	fructose-free	
+Forelle	27.77	5.77	102	427	19.5	2.7	0	0	76.3	0	gluten-free	lactose-free	fructose-free	
+Früchtebrot	67.77	25.77	289	1210	6.6	8.6	46.2	14	23	3.85	low-gluten	low-lactose	fructose	
+Frühlingsrolle	67.77	15.77	188	787	9.4	8.5	18.3	1.6	 	1.53	low-gluten	lactose-free	low-fructose	
+Frühlingszwiebel	27.77	5.77	23	96	2	0.5	3	1.5	92.2	0.25	gluten-free	lactose-free	low-fructose	
+Frankfurter	27.77	5.77	272	1139	13.1	24.4	0	0	57.7	0	low-gluten	low-lactose	low-fructose	
+Frischkäse 50% Fett i.Tr.	27.77	5.77	269	1126	13.5	24	0	0	57	0	gluten-free	lactose	fructose-free	
+Frischkäse Doppelrahmstufe	27.77	5.77	340	1424	11.3	31.5	2.6	0	53	0.22	gluten-free	lactose	fructose-free	
+Fruchteis	27.77	5.77	130	544	1.3	1.4	28	1	72	2.33	gluten	lactose	fructose	
+Fruchtzucker, Fructose	27.77	25.77	400	1675	0	0	100	0	 	8.33	gluten-free	lactose-free	fructose	
+Gänseschmalz	27.77	5.77	896	3752	0	99.5	0	0	0	0	gluten-free	lactose-free	fructose-free	
+Gans	27.77	5.77	342	1432	15.7	31	0	0	52.4	0	gluten-free	lactose-free	fructose-free	
+Garnele	27.77	5.77	87	364	18.6	1.4	0	0	78.4	0	gluten-free	lactose-free	fructose-free	
+Gartenkresse	27.77	5.77	39	163	4.2	1.4	2.4	1.7	87.2	0.2	gluten-free	lactose-free	fructose-free	
+Geflügelwurst, mager	27.77	5.77	108	452	16.2	4.8	0	0	78.5	0	low-gluten	low-lactose	low-fructose	
+Gelatine	27.77	5.77	338	1415	84.2	0.1	0	0	14	0	low-gluten	lactose-free	fructose	
+Gelbwurst	27.77	5.77	281	1177	9.6	26.9	0	0	58	0	low-gluten	low-lactose	low-fructose	
+Gemüsebolognese	27.77	5.77	67	281	2.9	2.5	8.1	 	 	0.68	low-gluten	lactose-free	low-fructose	
+Gemüsebrühe, Pulver	27.77	5.77	80	335	20	7	9.5	6	 	0.79	low-gluten	low-lactose	low-fructose	
+Gemüsebrühe, verzehrfertig	27.77	5.77	4	17	0	0	1	0	98	0.08	low-gluten	low-lactose	low-fructose	
+Gemüsebratling	27.77	5.77	132	553	4.8	7.1	12	1.9	73	1	low-gluten	low-lactose	low-fructose	
+Gemüseeintopf	27.77	5.77	72	302	9.7	2.6	2.2	1.3	82.3	0.18	low-gluten	low-lactose	low-fructose	
+Gemüsesaft frisch	27.77	5.77	18	75	1	0.1	3.3	1	 	0.28	gluten-free	lactose-free	low-fructose	
+Gerstengraupen, fein (Perlgraupen)	67.77	25.77	350	1466	10.4	1.4	74	0	12.2	6.17	gluten	lactose-free	fructose-free	
+Gerstengraupen, grob	27.77	15.77	350	1466	10.4	1.4	74	0	12.2	6.17	gluten	lactose-free	fructose-free	
+Gerstenkörner	27.77	15.77	340	1424	11	2.1	72	0	11.7	6	gluten	lactose-free	fructose-free	
+Gerstenmehl	27.77	15.77	348	1457	10.6	1.9	72	5	12.8	6	gluten	lactose-free	fructose-free	
+Getreide, gekeimt	27.77	5.77	70	293	3.2	0.4	13	2.5	80.3	1.08	gluten	lactose-free	fructose-free	
+Getreideflocken, raffiniert, gezuckert	67.77	25.77	378	1583	8	1	85	 	 	7.08	gluten	lactose-free	low-fructose	
+Gewürze, Kräuter (Pfeffer, Petersilie, Basilikum, Oregano, Zimt, Vanille, etc.)	27.77	5.77	 	 	 	 	 	 	 	0	gluten-free	lactose-free	fructose-free	
+Glasnudeln	27.77	25.77	351	1470	0.3	0.1	86	0.5	 	7.17	gluten-free	lactose-free	low-fructose	
+Glasnudeln, roh	27.77	25.77	320	1340	0.7	0.5	76	8.6	 	6.33	gluten-free	lactose-free	low-fructose	
+Glukosesirup	87.77	25.77	322	1348	0.3	0	79	 	 	6.58	gluten-free	lactose-free	fructose	
+Gnocchi	87.77	25.77	168	704	3.8	4.5	28.1	0	 	2.34	low-gluten	low-lactose	low-fructose	
+Gorgonzola	27.77	5.77	360	1508	19.4	31.2	0	0	42.4	0	low-gluten	low-lactose	fructose-free	
+Gouda 40 %	27.77	5.77	300	1256	24.7	22.3	0	0	48	0	gluten-free	low-lactose	fructose-free	
+Gouda 48 %	27.77	5.77	343	1436	22.7	28	0	0	45	0	gluten-free	low-lactose	fructose-free	
+Grünkohl	27.77	5.77	37	155	4.3	0.9	2.5	4.2	86.3	0.21	gluten-free	lactose-free	low-fructose	
+Granatapfel, frisch	27.77	5.77	78	327	0.7	0.6	16.7	0	79	1.39	gluten-free	lactose-free	fructose	
+Grapefruit (Pampelmuse)	27.77	5.77	38	159	0.6	0.2	9	1.6	88.9	0.75	gluten-free	lactose-free	fructose-free	
+Grapefruitsaft	27.77	5.77	36	151	0.6	0.1	7.2	0	89.8	0.6	low-gluten	lactose-free	fructose-free	
+Grapefruitsaft, ungezuckert	27.77	5.77	47	197	0.5	0.1	10.1	0	89.2	0.84	low-gluten	lactose-free	fructose-free	
+Graubrot	67.77	25.77	210	879	5.5	0.8	45	5	 	3.75	gluten	lactose-free	low-fructose	
+Greyerzer	27.77	5.77	399	1671	26.9	32.1	0	0	35.6	0	gluten-free	low-lactose	fructose-free	
+Grieß (aus Hartweizen)	67.77	25.77	360	1508	13	1	73	3.9	 	6.08	gluten	lactose-free	fructose-free	
+Guave	27.77	5.77	34	142	0.9	0.5	5.8	5.2	83.5	0.48	gluten-free	lactose-free	fructose	
+Guave, Dose	67.77	15.77	65	272	0.6	0.3	15.7	4	77.6	1.31	low-gluten	low-lactose	fructose	
+Gummibärchen	87.77	25.77	348	1457	7	0	78	0	20	6.5	low-gluten	lactose-free	low-fructose	
+Gurke	27.77	5.77	12	50	0.6	0.2	1.8	0.5	96.4	0.15	gluten-free	lactose-free	fructose-free	
+Hüttenkäse	27.77	5.77	102	427	12.5	4.3	2.6	0	78.4	0.22	gluten-free	lactose	fructose-free	
+Hackfleisch, halb halb	27.77	5.77	260	1089	20	20	0	0	60	0	gluten-free	lactose-free	fructose-free	
+Hackfleisch, Rind	27.77	5.77	216	905	22.5	14	0	0	61	0	gluten-free	lactose-free	fructose-free	
+Hafer, Kleieflocken	27.77	25.77	321	1344	19	8.5	42.1	18	9.5	3.51	gluten	lactose-free	fructose	
+Hafer, Korn	27.77	25.77	326	1365	9.9	7.1	55.7	9.7	13	4.64	gluten	lactose-free	fructose	
+Haferflocken (Instant)	27.77	25.77	351	1470	13.3	6.8	61	8.7	13.4	5.08	gluten	low-lactose	fructose	
+Haferkeks	27.77	25.77	440	1843	8	20	57	11	 	4.75	gluten	low-lactose	fructose	
+Hafermehl	67.77	25.77	375	1570	13.8	7.1	62.9	5	9.1	5.24	gluten	lactose-free	low-fructose	
+Hafermilch (ungekocht)	27.77	5.77	45	188	1	1.5	6	1	 	0.5	gluten	lactose-free	low-fructose	
+Hagebutte	67.77	15.77	94	394	3.6	0.6	16.2	23.7	50	1.35	gluten-free	lactose-free	fructose	
+Hagebutte, Konfitüre	67.77	25.77	252	1055	0.5	0.2	62.3	2	34.5	5.19	low-gluten	lactose-free	fructose	
+Hallimasch	27.77	5.77	19	80	3.2	0.7	0.1	6.8	88	0.01	gluten-free	lactose-free	fructose-free	
+Hamburgerbrötchen	87.77	25.77	272	1139	7	4	52	4	 	4.33	gluten	low-lactose	low-fructose	
+Harzer Käse	27.77	5.77	126	528	30	0.7	0	0	64	0	low-gluten	low-lactose	fructose-free	
+Hase	27.77	5.77	113	473	21.6	3	0	0	73	0	gluten-free	lactose-free	fructose-free	
+Haselnuss	27.77	5.77	644	2697	12	61	10.5	8.2	5.6	0.88	gluten-free	lactose-free	fructose-free	
+Haselnussmus	27.77	5.77	652	2730	12.3	63	11	6	5.3	0.92	gluten-free	lactose-free	fructose-free	
+Hecht	27.77	5.77	82	343	18.4	0.9	0	 	79.6	0	gluten-free	lactose-free	fructose-free	
+Hefe, Bäckerhefe	67.77	5.77	78	327	16.7	1.2	0	6.9	73	0	low-gluten	lactose-free	fructose-free	
+Hefe, Trockenhefe	67.77	25.77	285	1193	36	0.1	32	21	5	2.67	low-gluten	lactose-free	fructose-free	
+Hefegebäck	67.77	25.77	249	1043	8.5	6.6	39	3	42	3.25	gluten	low-lactose	low-fructose	
+Heidelbeeren, frisch	27.77	5.77	37	155	0.7	0.6	6.1	4.9	84.2	0.51	gluten-free	lactose-free	fructose	
+Heidelbeeren, Konfitüre	67.77	25.77	257	1076	0.3	0	63.6	2	36	5.3	low-gluten	lactose-free	fructose	
+Heilbutt	27.77	5.77	95	398	20.1	1.6	0	0	76.1	0	gluten-free	lactose-free	fructose-free	
+Hering	27.77	5.77	201	842	16.8	14.9	0	0	66.7	0	gluten-free	lactose-free	fructose-free	
+Himbeere, frisch	27.77	5.77	33	138	1.3	0.3	4.8	4.7	84.5	0.4	gluten-free	lactose-free	fructose	
+Himbeeren, Konfitüre	67.77	25.77	251	1051	0.5	0.3	60.9	1.2	34	5.08	low-gluten	lactose-free	fructose	
+Hinterschinken	27.77	5.77	274	1147	16.9	22.9	0	0	59.3	0	low-gluten	low-lactose	low-fructose	
+Hirsch	27.77	5.77	112	469	20.6	3.3	0	0	74.7	0	gluten-free	lactose-free	fructose-free	
+Hirse	67.77	25.77	354	1482	10.6	3.9	69	3.8	12.5	5.75	gluten-free	lactose-free	fructose-free	
+Holunderbeeren	27.77	5.77	45	188	2.6	0.5	7.4	4	82.1	0.62	gluten-free	lactose-free	fructose-free	
+Holunderbeeren, Saft	27.77	5.77	38	159	2	0.4	6.8	0	86.5	0.57	gluten-free	lactose-free	low-fructose	
+Honig	87.77	25.77	327	1369	0.3	0	81	0	17	6.75	gluten-free	lactose-free	fructose	
+Honigmelone	67.77	5.77	54	226	0.9	0.1	12.4	0.7	85.4	1.03	gluten-free	lactose-free	fructose-free	
+Huhn, Brathuhn	27.77	5.77	166	695	20	9.6	0	0	70	0	gluten-free	lactose-free	fructose-free	
+Huhn, Brust mit Haut	27.77	5.77	145	607	22.2	6.2	0	0	70.6	0	gluten-free	lactose-free	fructose-free	
+Huhn, Keule mit Haut	27.77	5.77	174	729	18.2	11.2	0	0	69.7	0	gluten-free	lactose-free	fructose-free	
+Huhn, Suppenhuhn	27.77	5.77	257	1076	18.5	20.3	0	0	60	0	gluten-free	lactose-free	fructose-free	
+Hummer	27.77	5.77	81	339	15.9	1.9	0	 	79.8	0	gluten-free	lactose-free	fructose-free	
+Hummus	27.77	5.77	166	695	8	10	14	6	 	1.17	low-gluten	lactose-free	low-fructose	
+Ingwer	27.77	5.77	61	255	2.5	0.8	11	0	81	0.92	gluten-free	lactose-free	fructose-free	
+Jagdwurst	27.77	5.77	205	858	14.8	16.2	0	0	64.4	0	low-gluten	low-lactose	low-fructose	
+Joghurt 1,5 %	27.77	5.77	44	184	3.4	1.5	4.1	0	89.4	0.34	gluten-free	lactose	fructose-free	
+Joghurt 3,5 %	27.77	5.77	61	255	3.3	3.5	4	0	87.5	0.33	gluten-free	lactose	fructose-free	
+Joghurt, 1,5 % mit Früchten	67.77	5.77	78	327	3	1.3	4.1	0	89.4	0.34	low-gluten	lactose	fructose	
+Joghurt, 3,5 % mit Früchten	67.77	5.77	94	394	2.9	3	13.5	0	85	1.13	low-gluten	lactose	fructose	
+Johannisbeeren, rot	27.77	5.77	33	138	1.1	0.2	4.9	3.5	84.7	0.41	gluten-free	lactose-free	fructose	
+Johannisbeeren, rot, Nektar	87.77	15.77	61	255	0.4	0	12.4	0	85.6	1.03	low-gluten	lactose-free	fructose	
+Johannisbeeren, schwarz	27.77	5.77	39	163	1.3	0.2	6.1	6.8	81.3	0.51	gluten-free	lactose-free	fructose	
+Johannisbeeren, schwarz, Nektar	87.77	15.77	64	268	0.4	0	13	0	85.3	1.08	low-gluten	lactose-free	fructose	
+Johannisbrotkernmehl (Carobpulver)	27.77	5.77	60	251	4.5	1.4	7.3	74	 	0.61	gluten-free	lactose-free	fructose-free	
+Käsekuchen	67.77	15.77	230	963	9	8	30	 	53	2.5	gluten	lactose	low-fructose	
+Kürbis	67.77	5.77	26	109	1	0.1	5	2.2	91.3	0.42	gluten-free	lactose-free	fructose-free	
+Kürbiskernöl	27.77	5.77	900	3769	0	100	0	0	0	0	gluten-free	lactose-free	fructose-free	
+Kürbiskerne	27.77	5.77	565	2366	24.4	45.6	14.2	8.8	2.1	1.18	gluten-free	lactose-free	fructose-free	
+Kabeljau	27.77	5.77	73	306	17.4	0.4	0	 	81.1	0	gluten-free	lactose-free	fructose-free	
+Kaffee	27.77	5.77	9	38	0.2	0.2	1.7	0	99.4	0.14	gluten-free	lactose-free	fructose-free	
+Kakaopulver, ohne Zucker	27.77	5.77	433	1813	20.5	21	40.5	0	5.2	3.38	low-gluten	low-lactose	low-fructose	
+Kaki	27.77	5.77	72	302	0.6	0.3	16.5	2.5	81	1.38	gluten-free	lactose-free	low-fructose	
+Kaktusfeige	27.77	5.77	28	117	0.8	0.7	7.1	5	85	0.59	gluten-free	lactose-free	low-fructose	
+Kalb, Brust	27.77	5.77	131	549	18.6	6.3	0	0	73.7	0	gluten-free	lactose-free	fructose-free	
+Kalb, Haxe	27.77	5.77	98	410	20.9	1.6	0	0	76.1	0	gluten-free	lactose-free	fructose-free	
+Kalb, Schnitzel	27.77	5.77	99	415	20.7	1.8	0	0	76.1	0	gluten-free	lactose-free	fructose-free	
+Kalbfleisch	27.77	5.77	95	398	21.9	0.8	0	 	75.8	0	gluten-free	lactose-free	fructose-free	
+Kalbsbratwurst	27.77	5.77	266	1114	10	25	0	0	63	0	low-gluten	lactose-free	low-fructose	
+Kalbsbries	27.77	5.77	99	415	17.2	3.4	0	0	77.7	0	low-gluten	low-lactose	low-fructose	
+Kamut-Vollkornmehl	27.77	25.77	359	1503	17.3	2.6	66.7	2	 	5.56	gluten	lactose-free	low-fructose	
+Kamutbrot	27.77	15.77	215	900	10.4	1.9	38.2	 	 	3.18	gluten	lactose-free	low-fructose	
+Kaninchen	27.77	5.77	152	637	20.9	7.5	0	0	69	0	gluten-free	lactose-free	fructose-free	
+Kapern	27.77	5.77	23	96	2.4	0.9	4.9	3.2	 	0.41	gluten-free	lactose-free	fructose	
+Karotten, gekocht	87.77	5.77	18	75	0.8	0.2	3.1	2.5	91.2	0.26	gluten-free	lactose-free	fructose-free	
+Karotten, roh	27.77	5.77	28	117	1.1	0.2	5.2	3.4	86.2	0.43	gluten-free	lactose-free	fructose-free	
+Karottensaft, ohne Zucker	27.77	5.77	22	92	0.6	0	4.8	0	92.7	0.4	gluten-free	lactose-free	low-fructose	
+Karpfen	27.77	5.77	115	482	18	4.8	0	0	75.8	0	gluten-free	lactose-free	fructose-free	
+Kartoffel	67.77	15.77	70	293	2	0.1	14.8	2.1	77.8	1.23	gluten-free	lactose-free	fructose-free	
+Kartoffel, Dosen oder Glas	67.77	5.77	47	197	1.3	0.07	9.7	1.5	85.8	0.81	gluten-free	low-lactose	fructose-free	
+Kartoffel, gekocht	67.77	5.77	70	293	2	0.1	14.8	2.1	77.8	1.23	gluten-free	lactose-free	fructose-free	
+Kartoffelgratin	87.77	15.77	145	607	1.9	8	16.3	 	 	1.36	low-gluten	low-lactose	low-fructose	
+Kartoffelknödel halb und halb	87.77	15.77	97	406	2.3	1.7	17.4	2.1	 	1.45	gluten	low-lactose	low-fructose	
+Kartoffelknödel, roh, selbst gemacht	27.77	5.77	86	360	2.4	1.3	15.7	1.8	 	1.31	gluten	low-lactose	fructose-free	
+Kartoffeln mit Schale gegart (Wasser, Dampf)	67.77	5.77	70	293	2	0.1	14.8	2.1	77.8	1.23	gluten-free	lactose-free	fructose-free	
+Kartoffeln, gebacken	87.77	15.77	82	343	2.5	0.2	18	3.1	73	1.5	gluten-free	lactose-free	fructose-free	
+Kartoffelpüree (Instantflocken)	87.77	25.77	331	1386	8	0.2	73	0	 	6.08	low-gluten	low-lactose	low-fructose	
+Kartoffelpüree (selbst zubereitet)	87.77	25.77	202	846	5.4	4.4	33.9	4.2	 	2.83	gluten-free	low-lactose	fructose-free	
+Kartoffelstärke	87.77	25.77	336	1407	0.6	0.1	83.1	0	15.5	6.93	gluten-free	lactose-free	fructose-free	
+Kastanienmehl	67.77	25.77	390	1633	8	4	80	0	 	6.67	gluten-free	lactose-free	low-fructose	
+Kaviar, echt	27.77	5.77	244	1022	26	15.5	0	0	47.1	0	gluten-free	lactose-free	fructose-free	
+Kaviar, Ersatz	27.77	5.77	115	482	14	6.5	0	0	71	0	low-gluten	lactose-free	fructose-free	
+Kefir 3.5%	27.77	5.77	61	255	3.3	3.5	4	0	87.5	0.33	gluten-free	lactose	fructose-free	
+Ketchup	67.77	15.77	110	461	2.1	0.3	24	0.9	68.2	2	low-gluten	lactose-free	low-fructose	
+Kichererbsen	27.77	15.77	306	1281	20	6	44	17	9	3.67	gluten-free	lactose-free	fructose-free	
+Kichererbsenmehl	27.77	25.77	386	1616	22	7	58	11	10	4.83	gluten-free	lactose-free	fructose-free	
+Kidneybohnen, Dose	27.77	5.77	104	436	6.9	0.6	17.8	6.2	67.5	1.48	gluten-free	low-lactose	fructose-free	
+Kidneybohnen, trocken	27.77	15.77	351	1470	21.4	1.6	61.6	0	 	5.13	gluten-free	lactose-free	fructose-free	
+Kirsche, Konfitüre	67.77	25.77	250	1047	0.5	0.1	60.8	0.5	36.6	5.07	low-gluten	lactose-free	low-fructose	
+Kirsche, süß	67.77	5.77	63	264	0.9	0.3	13.3	1.3	81.6	1.11	gluten-free	lactose-free	low-fructose	
+Kirsche, Saft	67.77	5.77	41	172	0.1	0	12.2	0.2	89	1.02	low-gluten	lactose-free	low-fructose	
+Kirsche, sauer	27.77	5.77	53	222	0.9	0.4	10	1.1	84.3	0.83	gluten-free	lactose-free	low-fructose	
+Kiwi	27.77	5.77	50	209	0.9	0.6	9.1	2.1	83.5	0.76	gluten-free	lactose-free	low-fructose	
+Kleie	27.77	25.77	310	1298	17.8	8.5	40.5	0	 	3.38	gluten	lactose-free	fructose	
+Kleiebrot	27.77	5.77	273	1143	20.7	16	20.2	15	 	1.68	gluten	lactose-free	fructose	
+Knäckebrot mit Ballaststoffen	67.77	25.77	291	1219	11.8	2.3	55.8	14	6.2	4.65	gluten	low-lactose	low-fructose	
+Knäckebrot, Roggen	67.77	25.77	366	1533	7.9	1.3	82.2	16.5	 	6.85	gluten	low-lactose	fructose-free	
+Knoblauch	27.77	5.77	139	582	6.1	0.1	28.4	0	64	2.37	gluten-free	lactose-free	fructose	
+Kochbanane (gekocht)	67.77	15.77	121	507	1	0.3	27.7	1.5	66.5	2.31	gluten-free	lactose-free	fructose	
+Kochbanane (roh)	27.77	15.77	123	515	1	0.3	28.3	1.8	66.5	2.36	gluten-free	lactose-free	fructose	
+Kochkäse 10%	27.77	5.77	101	423	14.7	3	3.8	0	73	0.32	low-gluten	lactose	low-fructose	
+Kochkäse 40%	27.77	5.77	187	783	12	13.9	3.4	0	67	0.28	low-gluten	lactose	low-fructose	
+Kochschinken	27.77	5.77	125	523	22.5	3.8	0	0	64	0	low-gluten	low-lactose	low-fructose	
+Kohlrübe	67.77	5.77	29	121	1.1	0.2	5.7	2.9	87	0.48	gluten-free	lactose-free	low-fructose	
+Kohlrübe, Steckrübe (gekocht)	67.77	5.77	35	147	1.1	0.2	7	2.7	87	0.58	gluten-free	lactose-free	fructose-free	
+Kohlrabi	27.77	5.77	25	105	2	0.1	4.1	1.4	90.3	0.34	gluten-free	lactose-free	low-fructose	
+Kohlsuppe, Dose	87.77	5.77	32	134	1.5	0.2	7.5	0	92	0.63	low-gluten	low-lactose	low-fructose	
+Kokosfett	27.77	5.77	878	3677	0	99	0	0	0	0	gluten-free	lactose-free	fructose-free	
+Kokosmilch	27.77	5.77	166	695	0.3	17	0.2	0.1	94.2	0.02	gluten-free	lactose-free	fructose-free	
+Kokosnuss	27.77	5.77	363	1520	3.9	36.5	4.8	9	48	0.4	gluten-free	lactose-free	low-fructose	
+Kokosraspel	27.77	5.77	606	2538	5.6	62	6.4	24	2.2	0.53	gluten-free	lactose-free	low-fructose	
+Kondensmilch 10%	67.77	5.77	177	741	8.8	10.1	12.5	0	66.7	1.04	gluten-free	lactose	low-fructose	
+Kondensmilch 4%	27.77	5.77	128	536	9.4	4.1	13.3	0	71.2	1.11	gluten-free	lactose	low-fructose	
+Kondensmilch, gezuckert 8%	67.77	25.77	320	1340	8.2	8.8	51.9	0	26.1	4.33	gluten-free	lactose	low-fructose	
+Kopfsalat	27.77	5.77	10	42	1.3	0.2	0.9	1.5	94.7	0.08	gluten-free	lactose-free	fructose-free	
+Kornspitz	27.77	15.77	220	921	7.6	1.7	42	 	 	3.5	gluten	low-lactose	low-fructose	
+Kräcker	67.77	25.77	376	1575	10.3	3.3	75	4.5	4	6.25	gluten	low-lactose	low-fructose	
+Krabben, Dose	67.77	5.77	92	385	17.4	2.5	0	0	77.2	0	low-gluten	low-lactose	fructose-free	
+Krebs, Flusskrebs	27.77	5.77	65	272	15	0.5	0	0	83.1	0	gluten-free	lactose-free	fructose-free	
+Krustentiere (Hummer, Krabben, Languste)	27.77	5.77	91	381	19	1.2	1.2	0.1	81.3	0.1	gluten-free	lactose-free	fructose-free	
+Kumquat	27.77	5.77	64	268	0.6	0.3	14.6	3.7	83.9	1.22	gluten-free	lactose-free	fructose	
+Löwenzahn	27.77	5.77	27	113	2.9	0.6	2.4	3	85.8	0.2	gluten-free	lactose-free	fructose-free	
+Lachs	27.77	5.77	202	846	19.9	13.6	0	0	65.5	0	gluten-free	lactose-free	fructose-free	
+Lachs, geräuchert	27.77	5.77	289	1210	28.5	19.4	0	0	50	0	low-gluten	low-lactose	low-fructose	
+Lachsschinken	27.77	5.77	116	486	18.2	4.5	0	0	70	0	low-gluten	low-lactose	low-fructose	
+Lagerbier	87.77	5.77	37	155	0.5	0	2.8	0	92	0.23	gluten	low-lactose	fructose	
+Laktose, Milchzucker	27.77	25.77	405	1696	0	0	99.8	0	0.2	8.32	gluten-free	lactose	low-fructose	
+Lamm, Filet	27.77	5.77	112	469	20.4	3.4	0	0	75	0	gluten-free	lactose-free	fructose-free	
+Lamm, Keule	27.77	5.77	234	980	18	18	0	0	64	0	gluten-free	lactose-free	fructose-free	
+Lamm, Kotelett	27.77	5.77	348	1457	14.9	32	0	0	52	0	gluten-free	lactose-free	fructose-free	
+Lammfleisch	27.77	5.77	112	469	20.4	3.4	0	0	75	0	gluten-free	lactose-free	fructose-free	
+Lasagne Bolognese	67.77	5.77	159	666	7	5	15	1.7	66	1.25	low-gluten	low-lactose	low-fructose	
+Lauch, Porree	27.77	5.77	25	105	2.2	0.3	3.2	2.3	89	0.27	gluten-free	lactose-free	fructose	
+Leberkäse	27.77	5.77	297	1244	12.4	27.5	0	0	57	0	low-gluten	low-lactose	low-fructose	
+Leberpastete	27.77	5.77	314	1315	14	29	0	0	54	0	low-gluten	low-lactose	low-fructose	
+Lebertran	27.77	5.77	899	3765	0	99.9	0	0	0	0	low-gluten	low-lactose	low-fructose	
+Leberwurst	27.77	5.77	420	1759	12.4	41.2	0	 	42.9	0	low-gluten	low-lactose	low-fructose	
+Leberwurst, mager	27.77	5.77	257	1076	17	21	0	0	 	0	low-gluten	low-lactose	low-fructose	
+Leinöl	27.77	5.77	900	3769	0	100	0	0	0	0	gluten-free	lactose-free	low-fructose	
+Leinsamen, ungeschält	27.77	5.77	376	1575	24.2	31	0	35	6	0	gluten-free	lactose-free	fructose	
+Liköre	87.77	25.77	166	695	 	 	30	0	50	2.5	gluten	low-lactose	fructose	
+Limabohnen	27.77	15.77	266	1114	19	1.1	45	0	11	3.75	gluten-free	lactose-free	fructose-free	
+Limburger, 20%	27.77	5.77	183	766	26.4	8.6	0	0	58.5	0	gluten-free	low-lactose	fructose-free	
+Limburger, 40%	27.77	5.77	267	1118	22.4	19.7	0	0	51.7	0	gluten-free	low-lactose	fructose-free	
+Limonade	87.77	15.77	49	205	0	0	12	1	92.5	1	gluten	lactose-free	low-fructose	
+Limone	27.77	5.77	39	163	0.5	2.4	1.9	1	91	0.16	gluten-free	lactose-free	fructose-free	
+Linsen	27.77	15.77	270	1131	23.5	1.4	40.5	18	11.5	3.38	gluten-free	lactose-free	low-fructose	
+Linsen, braun	27.77	15.77	315	1319	23.5	1.4	52	10.6	11.8	4.33	gluten-free	lactose-free	low-fructose	
+Linsen, Dose	27.77	5.77	91	381	7	0.5	13	0	 	1.08	low-gluten	low-lactose	low-fructose	
+Linsen, gelb	27.77	15.77	315	1319	23.5	1.4	52	10.6	11.8	4.33	gluten-free	lactose-free	low-fructose	
+Linsen, grün	27.77	15.77	315	1319	23.5	1.4	52	10.6	11.8	4.33	gluten-free	lactose-free	low-fructose	
+Linsensuppe, Dose	67.77	5.77	75	314	4.2	2	11	5	 	0.92	low-gluten	low-lactose	low-fructose	
+Litschi/Lychee, frisch	27.77	5.77	75	314	0.9	0.3	17	1.6	80	1.42	gluten-free	lactose-free	fructose-free	
+Lupine (Süßlupine)	27.77	5.77	119	498	15.6	2.9	9.9	2.8	70	0.83	gluten-free	lactose-free	low-fructose	
+Müslimischung mit Frucht, ohne Zucker	27.77	15.77	363	1520	10.7	8.8	60.2	7.7	12	5.02	gluten	low-lactose	fructose	
+Müslimischung mit Schokolade	87.77	25.77	399	1671	10	11.5	63.8	7	5	5.32	gluten	low-lactose	fructose	
+Müslimischung mit Zucker	87.77	25.77	394	1650	9	10	67	5.5	10	5.58	gluten	low-lactose	fructose	
+Müslimischung ohne Zucker	67.77	25.77	330	1382	9.3	5.4	61.2	 	 	5.1	gluten	low-lactose	low-fructose	
+Müsliriegel	67.77	25.77	471	1972	10	20	64	5	24	5.33	gluten	low-lactose	low-fructose	
+Macadamianuss	27.77	5.77	703	2944	7.5	73	4	11	3	0.33	gluten-free	lactose-free	fructose-free	
+Mais	67.77	25.77	331	1386	9.2	3.8	65	9.2	12.5	5.42	gluten-free	lactose-free	fructose-free	
+Mais-Chips, Tortillas	67.77	25.77	465	1947	9	15	73	6	 	6.08	gluten-free	lactose-free	low-fructose	
+Maisgrieß, Polenta	67.77	25.77	339	1420	8.8	1.1	73.5	0	11	6.13	gluten-free	lactose-free	fructose-free	
+Maiskeimöl	27.77	5.77	900	3769	0	100	0	0	0	0	gluten-free	lactose-free	fructose-free	
+Maismehl	67.77	25.77	329	1378	9	2.8	66.9	9.2	12	5.58	gluten-free	lactose-free	low-fructose	
+Maisstärke	87.77	25.77	346	1449	0.4	0.1	85.9	0	12.6	7.16	gluten-free	lactose-free	fructose-free	
+Makrele	27.77	5.77	182	762	18.7	11.9	0	0	68.2	0	gluten-free	lactose-free	fructose-free	
+Maltodextrin	87.77	25.77	390	1633	0	0	96	0	 	8	gluten-free	lactose-free	fructose-free	
+Maltose (Malzzucker)	87.77	25.77	405	1696	0	0	99.8	0	0.2	8.32	gluten-free	lactose-free	fructose-free	
+Malzbier	87.77	15.77	48	201	0.4	0	11.6	0	89	0.97	gluten	low-lactose	fructose-free	
+Mandarinen	27.77	5.77	46	193	0.6	0.3	10.2	2	86.7	0.85	gluten-free	lactose-free	fructose-free	
+Mandarinen, Dose	27.77	5.77	60	251	0.5	0.1	14.4	0.3	84	1.2	low-gluten	low-lactose	low-fructose	
+Mandelmakronen	67.77	25.77	376	1575	5	24	35	6	30	2.92	low-gluten	low-lactose	low-fructose	
+Mandelmilch	27.77	5.77	45	188	0.9	2.2	5	0.8	 	0.42	gluten-free	lactose-free	low-fructose	
+Mandelmus	27.77	5.77	664	2781	15	59	19	1.5	1	1.58	low-gluten	lactose-free	low-fructose	
+Mandeln	27.77	5.77	577	2416	19	54	3.7	15.2	5	0.31	gluten-free	lactose-free	low-fructose	
+Mango	67.77	5.77	59	247	0.5	0.5	12.8	1.7	83	1.07	gluten-free	lactose-free	low-fructose	
+Mango, Dose	67.77	15.77	82	343	0.3	0.2	20.3	1	74.8	1.69	low-gluten	low-lactose	low-fructose	
+Mangold	27.77	5.77	14	59	2.1	0.3	0.7	2	92.2	0.06	gluten-free	lactose-free	fructose-free	
+Mangosaft, ohne Zucker	27.77	5.77	56	235	0.2	0.1	13.2	0.5	 	1.1	gluten-free	lactose-free	fructose	
+Maniok	27.77	25.77	159	666	1.4	0.3	38	1.8	 	3.17	gluten-free	lactose-free	fructose-free	
+Margarine	27.77	5.77	722	3023	0.2	80	0.4	0	19.1	0.03	gluten-free	low-lactose	fructose-free	
+Margarine, Diät	27.77	5.77	722	3023	0.2	80	0.2	0	19.1	0.02	low-gluten	low-lactose	low-fructose	
+Margerine, Halbfett	27.77	5.77	368	1541	1.6	40	0.4	0	57.9	0.03	low-gluten	low-lactose	low-fructose	
+Marmelade	67.77	25.77	263	1101	0.1	0.2	60	0.7	30	5	low-gluten	lactose-free	fructose	
+Maronen, Esskastanien	67.77	25.77	196	821	3.4	1.9	41.2	8.4	48	3.43	gluten-free	lactose-free	fructose-free	
+Marzipan	87.77	25.77	493	2064	8	25	49	1	9	4.08	gluten-free	lactose-free	fructose	
+Mascarpone	27.77	5.77	460	1926	4.6	47.5	3.6	0	46.8	0.3	gluten-free	lactose	fructose-free	
+Matjeshering	27.77	5.77	267	1118	16	22.6	0	0	54.4	0	low-gluten	low-lactose	low-fructose	
+Matzen (ungesäuertes Fladenbrot)	27.77	25.77	361	1512	11.7	1.5	80	4	4.3	6.67	gluten	lactose-free	fructose-free	
+Mayonnaise, 50 %	67.77	5.77	490	2052	0.5	52	5	0	38.9	0.42	low-gluten	low-lactose	low-fructose	
+Mayonnaise, 80 %	87.77	5.77	727	3044	1.1	78.9	3	0	15.1	0.25	low-gluten	low-lactose	low-fructose	
+Meerettich	27.77	5.77	63	264	2.8	0.3	11.7	3.6	76.6	0.98	gluten-free	lactose-free	fructose-free	
+Mehrkornbrot	67.77	25.77	216	905	7.6	1.6	42.8	9	37	3.57	gluten	low-lactose	low-fructose	
+Melasse, Sirup	67.77	25.77	288	1206	2	0.2	70	 	 	5.83	gluten-free	lactose-free	fructose	
+Melone	67.77	5.77	25	105	1	0	5.3	1	93.6	0.44	gluten-free	lactose-free	low-fructose	
+Mettwurst	27.77	5.77	390	1633	13.9	37.2	0	0.1	37.8	0	low-gluten	low-lactose	low-fructose	
+Miesmuschel	27.77	5.77	69	289	10.5	2	2.4	0	83	0.2	gluten-free	lactose-free	fructose-free	
+Milch, H-Milch, 0,1 %	27.77	5.77	35	147	3.5	0.1	4.9	0	90.5	0.41	gluten-free	lactose	fructose-free	
+Milch, H-Milch, 1,5 %	27.77	5.77	47	197	3.4	1.5	4.9	0	89.3	0.41	gluten-free	lactose	fructose-free	
+Milch, H-Milch, 3,5 %	27.77	5.77	64	268	3.3	3.5	4.8	0	87.5	0.4	gluten-free	lactose	fructose-free	
+Milch, Rohmilch	27.77	5.77	67	281	3.3	3.8	4.8	0	87.5	0.4	gluten-free	lactose	fructose-free	
+Milch, Trinkmilch, 0,1 %	27.77	5.77	35	147	3.5	0.1	4.9	0	90.5	0.41	gluten-free	lactose	fructose-free	
+Milch, Trinkmilch, 1,5 %	27.77	5.77	47	197	3.4	1.5	4.9	0	89.3	0.41	gluten-free	lactose	fructose-free	
+Milch, Trinkmilch, 3,5 %	27.77	5.77	64	268	3.3	3.5	4.8	0	87.5	0.4	gluten-free	lactose	fructose-free	
+Milchbrötchen	67.77	25.77	400	1675	8	15	55	3.4	25	4.58	gluten	low-lactose	low-fructose	
+Milchpulver	27.77	15.77	496	2077	26	27	38	0	 	3.17	gluten-free	lactose	low-fructose	
+Milchreis, gezuckert	87.77	15.77	129	540	4	2.8	21.4	0.3	70.7	1.78	low-gluten	lactose	low-fructose	
+Mineralwasser	27.77	5.77	0	0	0	0	0	0	99.8	0	gluten-free	lactose-free	fructose-free	
+Minestrone	27.77	5.77	83	348	2	3	12	 	 	1	low-gluten	low-lactose	low-fructose	
+Mirabelle	67.77	15.77	67	281	0.7	0.2	15.5	0.9	82.4	1.29	gluten-free	lactose-free	low-fructose	
+Mischbrot, Weizen	67.77	25.77	224	938	6.7	1.1	47.7	4.6	41	3.98	gluten	low-lactose	fructose	
+Misosuppe	27.77	5.77	28	117	2.1	1.2	2.7	0	92	0.23	low-gluten	low-lactose	low-fructose	
+Mispel	27.77	5.77	49	205	0.5	0.2	10.6	2.1	87.5	0.88	gluten-free	lactose-free	fructose	
+Mohnkuchen	67.77	25.77	355	1487	9	17	42	3.5	32	3.5	gluten	low-lactose	low-fructose	
+Mohnsamen	27.77	5.77	477	1997	20	42	4	20	6	0.33	gluten-free	lactose-free	fructose-free	
+Molke	27.77	5.77	25	105	1	0.2	4.7	0	94	0.39	gluten-free	lactose	fructose-free	
+Morcheln	27.77	5.77	15	63	2.5	0.3	0.5	7	89	0.04	gluten-free	lactose-free	fructose-free	
+Mortadella	27.77	5.77	345	1445	12.4	32.8	0	0	52.3	0	low-gluten	low-lactose	low-fructose	
+Mozzarella	27.77	5.77	253	1059	18.6	19.8	1	0	57	0.08	gluten	low-lactose	fructose-free	
+Muffin	67.77	25.77	377	1579	4.5	16	54	1	 	4.5	gluten	low-lactose	low-fructose	
+Mungobohnen	27.77	15.77	269	1126	23.1	1.2	41.2	17.3	9.1	3.43	gluten-free	lactose-free	fructose	
+Nüsse	27.77	5.77	561	2349	25.3	48	8.3	11	5.2	0.69	gluten-free	lactose-free	fructose-free	
+Nasi Goreng	67.77	15.77	146	611	6	6	17	0.5	70	1.42	low-gluten	low-lactose	low-fructose	
+Nektarine	27.77	5.77	53	222	0.9	0	12.4	2	80.2	1.03	gluten-free	lactose-free	fructose	
+Nudeln, Hartweizen, roh	67.77	25.77	361	1512	12.4	1	75.1	3.3	10	6.26	gluten	lactose-free	fructose-free	
+Nudeln, Vollkorn, roh	27.77	15.77	322	1348	13	3.6	60	9	19	5	gluten	lactose-free	fructose-free	
+Nuss-Nougat-Creme	27.77	25.77	514	2152	7	31	54	4	0.8	4.5	low-gluten	lactose	low-fructose	
+Obsttorte	67.77	15.77	202	846	2.8	9.2	27	1.9	58.3	2.25	gluten	low-lactose	fructose	
+Ochsenschwanz	27.77	5.77	184	771	20.1	11.5	0	0	66.8	0	gluten-free	lactose-free	fructose-free	
+Olivenöl	27.77	5.77	900	3769	0	100	0	0	0.2	0	gluten-free	lactose-free	low-fructose	
+Oliven, grün, mariniert	27.77	5.77	133	557	1.4	13.3	1.8	2.4	75	0.15	gluten-free	lactose-free	low-fructose	
+Oliven, schwarz, mariniert	27.77	5.77	135	565	1.1	13.8	1.5	1.4	75	0.13	gluten-free	lactose-free	low-fructose	
+Orange	27.77	5.77	42	176	1	0.2	8.3	1.6	85.9	0.69	gluten-free	lactose-free	low-fructose	
+Orangenlimonade	67.77	5.77	41	172	0	0.1	10	0	 	0.83	low-gluten	lactose-free	low-fructose	
+Orangensaft, Konzentrat	67.77	25.77	212	888	2.4	1.5	47.1	0	39.4	3.93	low-gluten	lactose-free	low-fructose	
+Orangensaft, zuckerfrei	27.77	5.77	44	184	0.7	0.2	9	0	87.6	0.75	low-gluten	lactose-free	low-fructose	
+Pak Choi	27.77	5.77	13	54	1.5	0.2	2.2	1	 	0.18	gluten-free	lactose-free	fructose-free	
+Palmöl	27.77	5.77	900	3769	0	100	0	0	0	0	gluten-free	lactose-free	low-fructose	
+Palmherzen, Dose	27.77	5.77	30	126	2.5	0.1	6	0	 	0.5	gluten-free	low-lactose	low-fructose	
+Paniermehl	87.77	25.77	349	1461	13	1	72	5.3	6.8	6	gluten	low-lactose	low-fructose	
+Paniermehl, Vollkorn	87.77	25.77	322	1348	13	2	63	 	 	5.25	gluten	low-lactose	low-fructose	
+Papaya	27.77	5.77	32	134	0.5	0.1	7.1	1.9	88	0.59	gluten-free	lactose-free	fructose-free	
+Paprika	27.77	5.77	20	84	1.2	0.3	2.9	3.6	91	0.24	gluten-free	lactose-free	fructose-free	
+Paranuss	27.77	5.77	668	2797	14	67	2.3	7	5.6	0.19	gluten-free	lactose-free	fructose-free	
+Parmesan	27.77	5.77	375	1570	35.6	25.8	0	0	29.6	0	gluten-free	low-lactose	fructose-free	
+Passionsfrucht, Maracuja, Grenadille	27.77	5.77	63	264	2.4	0.4	9.5	1.5	76	0.79	gluten-free	lactose-free	fructose	
+Pastinake	87.77	15.77	59	247	1.3	0.4	12	2	80	1	gluten-free	lactose-free	fructose-free	
+Pecanuss	27.77	5.77	703	2944	9.3	72	4.4	9.5	3	0.37	gluten-free	lactose-free	fructose-free	
+Peperoni	27.77	5.77	21	88	1.2	0.5	2.9	0	50	0.24	gluten-free	lactose-free	fructose	
+Pepino, Melonenbirne	27.77	5.77	26	109	0.4	0	7	0	 	0.58	gluten-free	lactose-free	fructose	
+Pesto, grün	27.77	5.77	458	1918	4.3	43.7	11.9	0	 	0.99	gluten-free	low-lactose	low-fructose	
+Pfeffer	27.77	15.77	251	1051	10	3.3	64	25	93.5	5.33	gluten-free	lactose-free	low-fructose	
+Pferdefleisch	27.77	5.77	107	448	20.5	2.8	0.4	0	75	0.03	gluten-free	lactose-free	fructose-free	
+Pfifferlinge	27.77	5.77	15	63	2.4	0.5	0.2	4.7	91.5	0.02	gluten-free	lactose-free	fructose-free	
+Pfifferlinge, Dose	27.77	5.77	15	63	2.1	0.7	0.2	4.7	88	0.02	low-gluten	low-lactose	fructose-free	
+Pfifferlinge, getrocknet	27.77	5.77	126	528	24.7	2.2	1.8	46.5	10	0.15	gluten-free	lactose-free	fructose-free	
+Pfirsich (Dose, gezuckert)	27.77	5.77	69	289	0.4	0.1	16.5	1.1	81.5	1.38	low-gluten	low-lactose	fructose	
+Pfirsich, frisch	27.77	5.77	43	180	0.7	0.1	8.9	1.9	87.5	0.74	gluten-free	lactose-free	fructose	
+Pfirsich, getrocknet	27.77	15.77	244	1022	3.1	0.6	53.9	11.7	23	4.49	low-gluten	lactose-free	fructose	
+Pflaume	27.77	5.77	49	205	0.6	0.2	10.2	1.6	83.2	0.85	gluten-free	lactose-free	fructose	
+Pflaumen, getrocknet	27.77	15.77	222	930	2.3	0.6	47.4	5	24	3.95	low-gluten	lactose-free	fructose	
+Pflaumen, Konfitüre	67.77	25.77	242	1013	0.3	0	59.6	1	31	4.97	low-gluten	lactose-free	fructose	
+Pflaumenmus	67.77	25.77	202	846	0.9	0.2	48	2.5	46	4	low-gluten	lactose-free	fructose	
+Pflaumentrunk	67.77	15.77	70	293	0.5	0.1	16.3	1	 	1.36	low-gluten	low-lactose	fructose	
+Physalis, Kapstachelbeere	27.77	5.77	49	205	1.5	0.5	11	0.5	81	0.92	gluten-free	lactose-free	low-fructose	
+Pilsener Bier	87.77	5.77	43	180	0.5	0	3.1	0	92	0.26	gluten	low-lactose	fructose	
+Pilze, frisch	27.77	5.77	15	63	2.8	0.3	0.6	2.1	93.3	0.05	gluten-free	lactose-free	fructose-free	
+Pinienkerne	27.77	5.77	674	2822	13	60	20.5	1	3	1.71	gluten-free	lactose-free	low-fructose	
+Pintobohne	27.77	25.77	301	1260	21.3	1.6	47.8	8.6	 	3.98	gluten-free	lactose-free	fructose	
+Pintobohne, Dose	67.77	15.77	162	678	9.3	0.5	30.9	8.6	0	2.58	low-gluten	low-lactose	fructose	
+Pistazien	27.77	5.77	618	2588	20.8	51.6	17.5	6.5	5.3	1.46	gluten-free	lactose-free	fructose-free	
+Pitabrot	67.77	25.77	254	1064	10	1	50	0	 	4.17	gluten	low-lactose	low-fructose	
+Pitabrot, Vollkorn	67.77	25.77	220	921	7.8	1.2	44.7	7.1	 	3.73	gluten	low-lactose	low-fructose	
+Pizza, 4 Käse	67.77	15.77	233	976	10.7	10	25	3	 	2.08	gluten	lactose	fructose	
+Pizza, Margherita	67.77	15.77	216	905	8.8	6.8	30	0	65	2.5	gluten	low-lactose	fructose	
+Pizza, Salami	67.77	15.77	308	1290	10.5	17.5	27	1.8	48	2.25	gluten	low-lactose	fructose	
+Polenta, Maisgrieß	67.77	25.77	339	1420	8.8	1.1	73.5	0	11	6.13	gluten-free	lactose-free	fructose-free	
+Pommes frites	87.77	25.77	290	1214	4.2	14.5	35.7	4	43.6	2.98	gluten	low-lactose	fructose-free	
+Popcorn, süß	87.77	25.77	409	1713	7.7	18	55	7.9	 	4.58	low-gluten	low-lactose	fructose	
+Popcorn, salzig	87.77	25.77	444	1859	8.1	21	56	8	 	4.67	low-gluten	low-lactose	low-fructose	
+Porree	27.77	5.77	25	105	2.2	0.3	3.2	2.3	89	0.27	gluten-free	lactose-free	fructose-free	
+Porridge, gekocht aus Haferflocken	67.77	5.77	90	377	4.8	2.3	13	0	 	1.08	gluten	low-lactose	low-fructose	
+Portulak	27.77	5.77	15	63	1.5	0.3	1.5	2	92.5	0.13	gluten-free	lactose-free	fructose	
+Pralinen	87.77	25.77	533	2232	6.8	29	60	 	20	5	low-gluten	low-lactose	fructose	
+Preiselbeer/Heidelbeersaft, ungezuckert	27.77	5.77	44	184	0.3	0	9	0	 	0.75	low-gluten	lactose-free	fructose	
+Preiselbeeren	27.77	5.77	35	147	0.3	0.5	6.2	2.9	89.7	0.52	gluten-free	lactose-free	fructose	
+Preiselbeeren, Dose, gesüßt	87.77	25.77	182	762	0.5	0.3	44.4	2.1	51.7	3.7	low-gluten	lactose-free	fructose	
+Puffreis	87.77	25.77	390	1633	7.5	2.3	83.5	2	2.5	6.96	low-gluten	lactose-free	low-fructose	
+Pumpernickel	27.77	15.77	182	762	6.8	1	36.5	9.3	45	3.04	gluten	lactose-free	fructose	
+Pute, Brust	27.77	5.77	157	657	20	8.5	0	0	73.7	0	gluten-free	lactose-free	fructose-free	
+Quark mit Frucht	67.77	5.77	124	519	10	3.7	12.7	1	70	1.06	gluten-free	lactose	fructose	
+Quark, 20%	27.77	5.77	109	456	12.5	5.1	2.7	0	78	0.23	gluten-free	lactose	fructose-free	
+Quark, 40%	27.77	5.77	160	670	11.1	11.4	3.3	0	73.5	0.28	gluten-free	lactose	fructose-free	
+Quark, magerstufe	27.77	5.77	73	306	13.5	0.3	4	0	81.3	0.33	gluten-free	lactose	fructose-free	
+Quinoa	27.77	25.77	335	1403	13.8	5	58.5	6.5	12.6	4.88	gluten-free	lactose-free	fructose-free	
+Quinoa-Mehl	27.77	25.77	343	1436	13.5	2.2	60.7	0	 	5.06	gluten-free	lactose-free	fructose-free	
+Quitte, frisch	27.77	5.77	38	159	0.4	0.5	7.3	6	83.5	0.61	gluten-free	lactose-free	fructose	
+Quittengelee	67.77	25.77	270	1131	0.1	0.2	58.5	2.1	31.3	4.88	low-gluten	lactose-free	fructose	
+Rührkuchen	27.77	25.77	388	1625	6	20	49	0.5	16	4.08	gluten	low-lactose	fructose	
+Raclettekäse	27.77	5.77	343	1436	22.7	28	0	0	45	0	gluten-free	low-lactose	fructose-free	
+Radicchio	27.77	5.77	13	54	1.2	0.2	1.5	1.5	95	0.13	gluten-free	lactose-free	fructose-free	
+Radieschen	27.77	5.77	14	59	1.1	0.1	2	1.6	94.4	0.17	gluten-free	lactose-free	fructose-free	
+Rahmspinat	27.77	5.77	72	302	3.2	2.9	5.6	 	 	0.47	gluten-free	low-lactose	low-fructose	
+Rapsöl	27.77	5.77	900	3769	0	100	0	0	0	0	gluten-free	lactose-free	fructose-free	
+Ratatouille	27.77	5.77	66	276	1.5	3	8.3	1.6	 	0.69	low-gluten	low-lactose	low-fructose	
+Ravioli mit Fleisch	67.77	15.77	222	930	0	6	33	9	 	2.75	gluten	low-lactose	low-fructose	
+Ravioli mit Gemüse	67.77	5.77	74	310	2.9	1	13	0	 	1.08	gluten	low-lactose	low-fructose	
+Reh, Keule	27.77	5.77	97	406	21.4	1.4	0	0	76	0	gluten-free	lactose-free	fructose-free	
+Reh, Rücken	27.77	5.77	122	511	22.3	3.7	0	0	72	0	gluten-free	lactose-free	fructose-free	
+Reibekäse 45%	27.77	5.77	386	1616	28.9	30	0	0	35	0	low-gluten	low-lactose	fructose-free	
+Reis, braun, gekocht	27.77	25.77	365	1528	7	0.7	80	3	 	6.67	gluten-free	lactose-free	fructose-free	
+Reis, natur	27.77	25.77	343	1436	7.4	2.2	74.1	2.2	13.1	6.18	gluten-free	lactose-free	fructose-free	
+Reis, poliert, gekocht	67.77	15.77	106	444	2	0.2	24	0.3	73	2	gluten-free	lactose-free	fructose-free	
+Reis, poliert, roh	67.77	25.77	349	1461	7.4	0.6	78.4	1.4	13	6.53	gluten-free	lactose-free	fructose-free	
+Reisbrot	67.77	25.77	239	1001	7.6	1.7	47.5	3.6	38	3.96	gluten-free	low-lactose	fructose-free	
+Reiskleie	27.77	5.77	350	1466	15	20	50	11	10	4.17	gluten-free	lactose-free	fructose-free	
+Reismehl	87.77	25.77	352	1474	7.2	0.7	79.1	2	12.3	6.59	gluten-free	lactose-free	fructose-free	
+Reismilch	87.77	5.77	43	180	0.1	0.7	9.1	0	 	0.76	gluten-free	lactose-free	fructose-free	
+Reisnudeln	67.77	15.77	109	456	1	0.2	25	1	 	2.08	gluten-free	lactose-free	fructose-free	
+Reispudding	87.77	25.77	393	1646	0.7	0.5	95	0.3	2.6	7.92	gluten-free	low-lactose	fructose-free	
+Reisstärke	87.77	25.77	343	1436	0.8	0	85	0	13.8	7.08	gluten-free	lactose-free	fructose-free	
+Rettich	27.77	5.77	14	59	1	0.2	2.5	2.5	94	0.21	gluten-free	lactose-free	fructose-free	
+Rhabarber	27.77	5.77	13	54	0.6	0.1	1.4	3.2	92.7	0.12	gluten-free	lactose-free	low-fructose	
+Ricotta	27.77	5.77	175	733	9.3	15	0.3	0	75	0.03	gluten-free	lactose	fructose-free	
+Rind, Filet	27.77	5.77	121	507	21.3	4	0	0	75	0	gluten-free	lactose-free	fructose-free	
+Rind, Frühstücksfleisch	27.77	5.77	294	1231	14.7	25.4	1.6	0	55	0.13	low-gluten	lactose-free	fructose-free	
+Rind, Rippe	27.77	5.77	154	645	20.2	8.1	0	0	63.7	0	gluten-free	lactose-free	fructose-free	
+Rind, Roastbeef	27.77	5.77	130	544	22.4	4.5	0	0	68.2	0	low-gluten	low-lactose	low-fructose	
+Rind, Zunge	27.77	5.77	209	875	16	15.9	0.4	0	66	0.03	gluten-free	lactose-free	fructose-free	
+Risotto, Gemüse	67.77	15.77	101	423	2.6	1.4	20	1.6	74	1.67	low-gluten	low-lactose	low-fructose	
+Roggen, Flocken	27.77	15.77	307	1286	12	1.7	61	10	15.3	5.08	gluten	lactose-free	fructose-free	
+Roggen, Korn	27.77	25.77	293	1227	8.7	1.7	60.7	13.2	13.7	5.06	gluten	lactose-free	fructose-free	
+Roggenbrot	67.77	25.77	211	884	6.1	0.9	43.8	5.7	41.6	3.65	gluten	low-lactose	low-fructose	
+Roggenmehl, Type 1150	27.77	15.77	319	1336	8.9	1.3	67.8	8	13.6	5.65	gluten	lactose-free	low-fructose	
+Roggenmehl, Type 815	67.77	25.77	321	1344	6.9	1	71	6.5	14.3	5.92	gluten	lactose-free	low-fructose	
+Roggenmehl, Type 997	67.77	25.77	312	1307	6.9	1.1	68	8.6	14.6	5.67	gluten	lactose-free	low-fructose	
+Roggenmischbrot	27.77	25.77	210	879	6.4	1.1	43.7	6.2	41	3.64	gluten	low-lactose	low-fructose	
+Roggenvollkornbrot	27.77	15.77	193	808	6.8	1.2	38.8	8.1	43	3.23	gluten	low-lactose	low-fructose	
+Rollmops	27.77	5.77	130	544	12	8	1	0	 	0.08	low-gluten	low-lactose	low-fructose	
+Romadur, 20%	27.77	5.77	178	745	23.9	9.2	0	0	60.3	0	gluten-free	low-lactose	fructose-free	
+Romadur, 30%	27.77	5.77	218	913	23.7	13.7	0	0	57.2	0	gluten-free	low-lactose	fructose-free	
+Roséwein	27.77	5.77	88	369	0.1	0	2.6	0	85.7	0.22	gluten-free	low-lactose	fructose	
+Rosenkohl	27.77	5.77	36	151	4.5	0.3	3.3	4.4	85	0.28	gluten-free	lactose-free	fructose-free	
+Rosinen	67.77	25.77	292	1223	2.3	0.5	68	5.6	15.7	5.67	gluten-free	lactose-free	fructose	
+Rotbarsch	27.77	5.77	105	440	18.2	3.6	0	0	76.9	0	gluten-free	lactose-free	fructose-free	
+Rote Bete, gekocht	67.77	5.77	25	105	1.1	0.1	5	2	92	0.42	gluten-free	lactose-free	fructose	
+Rote Bete, roh	27.77	5.77	41	172	1.5	0.1	8.4	2.5	86.2	0.7	gluten-free	lactose-free	fructose	
+Rote Bete, Saft	67.77	5.77	36	151	1	0	8	0.3	88.4	0.67	low-gluten	lactose-free	fructose	
+Rotkohl	27.77	5.77	21	88	1.5	0.2	3.2	2.5	91.8	0.27	gluten-free	lactose-free	fructose	
+Rotwein	27.77	5.77	85	356	0.1	0	2.6	1	88	0.22	gluten-free	low-lactose	fructose	
+Rucola	27.77	5.77	24	101	2.6	0.7	2.1	1.6	91.7	0.18	gluten-free	lactose-free	low-fructose	
+Russisch Brot	87.77	25.77	388	1625	6.6	1	88.2	0	3	7.35	gluten	low-lactose	fructose	
+Süßkartoffel (Batate)	27.77	15.77	108	452	1.6	0.6	24.1	3.1	69.2	2.01	gluten-free	lactose-free	fructose-free	
+Sahnetorte	67.77	15.77	365	1528	5	25	30	0	40	2.5	gluten	lactose	fructose	
+Salami	27.77	5.77	371	1554	18.5	33	0	0.4	27.7	0	low-gluten	low-lactose	fructose-free	
+Salat, grün	27.77	5.77	12	50	1.3	0.2	1.1	1.6	95	0.09	gluten-free	lactose-free	fructose-free	
+Salzstangen	87.77	25.77	347	1453	9.7	0.5	75	0	8	6.25	gluten	low-lactose	low-fructose	
+Sanddornbeeren	27.77	5.77	89	373	1.4	7.1	3.3	2	82.8	0.28	gluten-free	lactose-free	low-fructose	
+Sanddornbeeren, Saft	27.77	5.77	40	168	0.9	5.9	1.2	0	91.5	0.1	low-gluten	lactose-free	low-fructose	
+Sardellenpaste	27.77	5.77	198	829	15	11	8	0	59	0.67	low-gluten	low-lactose	low-fructose	
+Sardine	27.77	5.77	118	494	19.4	4.5	0	0	73.8	0	gluten-free	lactose-free	fructose-free	
+Saubohne, gekocht	87.77	5.77	73	306	5.3	0.7	11.2	5	9	0.93	gluten-free	lactose-free	fructose	
+Sauerampfer	27.77	5.77	25	105	3.2	0.4	2	3	92.7	0.17	gluten-free	lactose-free	fructose-free	
+Sauerkraut, abgetropft	27.77	5.77	16	67	1.5	0.3	0.8	2.2	90.7	0.07	gluten-free	lactose-free	fructose	
+Saure Sahne 10%	27.77	5.77	117	490	3.1	10	3.7	0	81.8	0.31	gluten-free	lactose	fructose-free	
+Saure Sahne, extra	27.77	5.77	189	791	2.8	18	3.4	0	74.5	0.28	gluten-free	lactose	fructose-free	
+Schalotte	27.77	5.77	72	302	2.5	0.1	17	3.22	 	1.42	gluten-free	lactose-free	fructose	
+Schellfisch	27.77	5.77	77	322	17.9	0.6	0	0	74.4	0	gluten-free	lactose-free	fructose-free	
+Schichtkäse, 10%	27.77	5.77	88	369	12.7	2.4	3.8	0	78.5	0.32	gluten-free	low-lactose	fructose-free	
+Schichtkäse, 50%	27.77	5.77	175	733	8.3	14.5	2.9	0	72	0.24	gluten-free	low-lactose	fructose-free	
+Schinkenspeck	27.77	5.77	152	637	20.7	7.7	0	0	64	0	low-gluten	low-lactose	low-fructose	
+Schlagsahne	27.77	5.77	309	1294	2.4	31.7	3.4	0	62	0.28	gluten-free	lactose	fructose-free	
+Schmand 24%	27.77	5.77	239	1001	2.6	24	3.2	0	69	0.27	gluten-free	lactose	fructose-free	
+Schmelzkäse 20%	27.77	5.77	188	787	17	10	7.5	0	60	0.63	low-gluten	lactose	fructose-free	
+Schmelzkäse, 45%	27.77	5.77	270	1131	14.4	23.6	0	0	51.3	0	low-gluten	lactose	fructose-free	
+Schnellkochreis	87.77	25.77	353	1478	7.3	1.3	77	1.9	 	6.42	gluten-free	lactose-free	fructose-free	
+Schokobrötchen	67.77	25.77	327	1369	9	11	48	0	 	4	gluten	low-lactose	fructose	
+Schokogetränk, gesüßt	27.77	5.77	52	218	3.5	0.3	8.9	 	85.7	0.74	low-gluten	low-lactose	fructose	
+Schokolade	27.77	25.77	525	2198	6	32.7	55	13	1	4.58	low-gluten	lactose	fructose	
+Schokolade Vollmilch	67.77	25.77	526	2203	8	30	56	0	1	4.67	low-gluten	lactose	fructose	
+Schokolade, schwarz (>70% Kakaogehalt)	27.77	15.77	524	2194	8	36	42	0	1	3.5	low-gluten	lactose	fructose	
+Schokolade, schwarz (>85% Kakaogehalt)	27.77	15.77	507	2123	5.3	30	54	0	1	4.5	low-gluten	lactose	fructose	
+Schokoladenpulver, gezuckert	67.77	25.77	385	1612	6.3	7.8	71	11	1.7	5.92	low-gluten	lactose	fructose	
+Schokomüsli	67.77	25.77	399	1671	10	11.5	64	7	5	5.33	gluten	lactose	fructose	
+Scholle	27.77	5.77	76	318	17.1	0.8	0	 	80.7	0	gluten-free	lactose-free	fructose-free	
+Schrotbrot	27.77	15.77	209	875	5.6	0.8	43.7	5.1	43	3.64	gluten	low-lactose	low-fructose	
+Schwarzwurzeln	27.77	5.77	16	67	1.4	0.4	1.6	17	78.6	0.13	gluten-free	lactose-free	low-fructose	
+Schwein, Bauch	27.77	5.77	261	1093	17.8	21.1	0	0	53.3	0	gluten-free	lactose-free	fructose-free	
+Schwein, Filet	27.77	5.77	104	436	21.5	2	0	0	77.5	0	gluten-free	lactose-free	fructose-free	
+Schwein, Kasseler	27.77	5.77	151	632	20.9	7.5	0	0	58.7	0	low-gluten	lactose-free	fructose-free	
+Schwein, Keule	27.77	5.77	274	1147	16.9	22.9	0	0	59.3	0	gluten-free	lactose-free	fructose-free	
+Schwein, Kotelett	27.77	5.77	150	628	20.3	5.2	0	0	67	0	gluten-free	lactose-free	fructose-free	
+Schwein, Rückenspeck	27.77	5.77	759	3178	4.1	82.5	0	0	13	0	gluten-free	lactose-free	fructose-free	
+Schwein, Schnitzel	27.77	5.77	106	444	22.2	1.9	0	0	74.9	0	gluten-free	lactose-free	fructose-free	
+Schwein, Schulter	27.77	5.77	217	909	17	16.5	0	0	60	0	gluten-free	lactose-free	fructose-free	
+Schweineschmalz	27.77	5.77	898	3760	0.1	99.7	0	0	0.2	0	gluten-free	lactose-free	fructose-free	
+Schweinsbratwurst	27.77	5.77	298	1248	9.8	28.8	0	0	57.4	0	low-gluten	low-lactose	low-fructose	
+Schwertfisch	27.77	5.77	170	712	22	8	0	0	 	0	gluten-free	lactose-free	fructose-free	
+Seehecht	27.77	5.77	94	394	17.1	2.6	0	0	80.8	0	gluten-free	lactose-free	fructose-free	
+Seezunge	27.77	5.77	82	343	17.5	1.5	0	0	80	0	gluten-free	lactose-free	fructose-free	
+Seitan	27.77	5.77	380	1591	75	2	14	1	 	1.17	gluten	lactose-free	low-fructose	
+Sekt	27.77	5.77	83	348	0.1	 	5	0	86	0.42	gluten-free	lactose-free	low-fructose	
+Sellerie, gekocht	87.77	5.77	20	84	1.4	0.3	2.8	4	90	0.23	gluten-free	lactose-free	fructose-free	
+Sellerie, roh	27.77	5.77	18	75	0.7	0.3	3	1.6	88.6	0.25	gluten-free	lactose-free	fructose-free	
+Semmeln (Weizenbrötchen)	67.77	25.77	274	1147	8.5	1.9	55.5	3	29.5	4.63	gluten	low-lactose	low-fructose	
+Senf, süß	27.77	15.77	173	724	5.6	2.4	31.1	0	 	2.59	low-gluten	low-lactose	fructose	
+Senf, scharf	27.77	5.77	102	427	5.9	6.3	5.3	0	78	0.44	low-gluten	low-lactose	fructose	
+Sesamöl	27.77	5.77	900	3769	0	100	0	0	0	0	gluten-free	lactose-free	fructose-free	
+Sesammus, Tahin	27.77	5.77	625	2617	25.4	56.6	3.8	10	 	0.32	gluten-free	lactose-free	low-fructose	
+Sesamsamen	27.77	5.77	565	2366	18	50	10	11	5	0.83	gluten-free	lactose-free	fructose-free	
+Sojaöl	27.77	5.77	900	3769	0	100	0	0	0	0	gluten-free	lactose-free	low-fructose	
+Sojabohnen	27.77	5.77	143	599	11.9	6	10.4	3	67	0.87	gluten-free	lactose-free	fructose	
+Sojabohnen, gekocht	27.77	5.77	141	590	12.4	6.4	11.1	4.2	 	0.93	gluten-free	lactose-free	fructose	
+Sojamehl	27.77	5.77	347	1453	37.2	20.6	3.1	18.5	9.1	0.26	gluten-free	lactose-free	low-fructose	
+Sojamilch	27.77	5.77	53	222	3.5	1.8	5.8	0	88.7	0.48	gluten-free	lactose-free	low-fructose	
+Sojanudeln	27.77	15.77	325	1361	16.2	5.2	52.5	11.5	11	4.38	gluten-free	lactose-free	low-fructose	
+Sojasprossen	27.77	5.77	49	205	5	1.2	4.6	1.1	70	0.38	gluten-free	lactose-free	low-fructose	
+Sonnenblumenöl	27.77	5.77	900	3769	0	100	0	0	0.2	0	gluten-free	lactose-free	fructose-free	
+Sonnenblumenkerne	27.77	5.77	580	2429	22.5	49	12.3	6.3	6.6	1.03	gluten-free	lactose-free	fructose-free	
+Sorbet	67.77	25.77	140	586	0.2	0	32	0.4	 	2.67	low-gluten	low-lactose	fructose	
+Spargel	27.77	5.77	18	75	1.9	0.1	2.2	1.5	93.5	0.18	gluten-free	lactose-free	fructose-free	
+Speck	27.77	5.77	621	2600	9.1	65	0	0	20	0	low-gluten	lactose-free	low-fructose	
+Speisestärke	87.77	25.77	348	1457	0	0	97	8.1	 	8.08	gluten-free	low-lactose	fructose-free	
+Spinat	27.77	5.77	15	63	2.5	0.3	0.6	2.6	92.7	0.05	gluten-free	lactose-free	fructose-free	
+Sprossen	27.77	5.77	28	117	1.3	0.3	4.9	1.8	91	0.41	low-gluten	lactose-free	low-fructose	
+Stachelbeere	27.77	5.77	44	184	0.8	0.2	8.5	2.9	85.7	0.71	gluten-free	lactose-free	low-fructose	
+Stangenbohnen	27.77	5.77	25	105	2.4	0.3	3.2	3	89	0.27	gluten-free	lactose-free	fructose	
+Stangensellerie	27.77	5.77	18	75	1.6	0.3	2.3	4.2	88.6	0.19	gluten-free	lactose-free	fructose-free	
+Steinbutt	27.77	5.77	82	343	16.6	1.8	0	0	80	0	gluten-free	lactose-free	fructose-free	
+Steinpilz	27.77	5.77	27	113	5.4	0.4	0.5	6	87.6	0.04	gluten-free	lactose-free	fructose-free	
+Steinpilz, getrocknet	27.77	5.77	163	683	29.5	3.2	4.1	55.3	11.6	0.34	gluten-free	lactose-free	fructose-free	
+Stockfisch	27.77	5.77	339	1420	79.2	2.5	0	0	15	0	low-gluten	lactose-free	low-fructose	
+Suppennudeln aus Hartweizen	27.77	25.77	352	1474	12	3	68	5	10.7	5.67	gluten	lactose-free	fructose-free	
+Surimi	27.77	5.77	99	415	15	0.9	7	0	 	0.58	low-gluten	low-lactose	low-fructose	
+Sushi	27.77	15.77	135	565	5.9	1.1	25.3	0	 	2.11	low-gluten	low-lactose	low-fructose	
+Tacos	67.77	15.77	208	871	9	8	25	0	 	2.08	low-gluten	low-lactose	low-fructose	
+Tamarinden, süß (Sauerdattel)	67.77	25.77	238	997	2.3	0.2	53	3.9	38.5	4.42	gluten-free	lactose-free	fructose	
+Tapioka	87.77	25.77	159	666	1.4	0.3	38	1.8	 	3.17	gluten-free	lactose-free	fructose-free	
+Tee	27.77	5.77	1	4	0	0	0.2	0	99.7	0.02	gluten-free	lactose-free	fructose-free	
+Thunfisch	27.77	5.77	226	946	21.5	15.5	0	0	61.4	0	gluten-free	lactose-free	fructose-free	
+Thunfisch in Öl	27.77	5.77	283	1185	23.8	20.9	0	0	52	0	low-gluten	lactose-free	low-fructose	
+Tilsiter, 30%	27.77	5.77	270	1131	28.7	17.2	0	0	46.2	0	gluten-free	low-lactose	fructose-free	
+Tilsiter, 45%	27.77	5.77	357	1495	26.3	27.7	0	0	40.6	0	gluten-free	low-lactose	fructose-free	
+Tintenfisch	27.77	5.77	68	285	15.3	0.8	0	0	82.2	0	gluten-free	lactose-free	fructose-free	
+Tofu	27.77	5.77	85	356	8.8	4.8	1.9	0.5	85	0.16	gluten-free	lactose-free	fructose-free	
+Tomaten	27.77	5.77	17	71	1	0.2	2.6	1	94.2	0.22	gluten-free	lactose-free	low-fructose	
+Tomaten, getrocknet	27.77	5.77	325	1361	9.5	30	3.7	0	 	0.31	gluten-free	lactose-free	low-fructose	
+Tomatenmark	27.77	5.77	50	209	2.3	0.5	9	0.5	86	0.75	low-gluten	lactose-free	low-fructose	
+Tomatensaft	27.77	5.77	17	71	0.8	0.1	2.9	0.1	94.2	0.24	low-gluten	lactose-free	fructose	
+Tomatensauce, fertig	27.77	5.77	30	126	1.7	1	7	1.3	 	0.58	low-gluten	low-lactose	low-fructose	
+Topinambur, Erdbirne	27.77	5.77	30	126	2.4	0.4	4	12.1	78.9	0.33	gluten-free	lactose-free	fructose	
+Tortellini mit Fleisch	67.77	25.77	376	1575	13	6.4	48	0	15	4	gluten	low-lactose	low-fructose	
+Tortellini mit Käse	67.77	25.77	234	980	9	8	30	0	53	2.5	gluten	lactose	low-fructose	
+Tortenboden	87.77	25.77	346	1449	6.5	5.2	68.3	1.4	17.8	5.69	gluten	low-lactose	low-fructose	
+Trüffel	27.77	5.77	27	113	5.5	0.5	7.4	16.5	75.5	0.62	gluten-free	lactose-free	fructose-free	
+Trauben, frisch	27.77	5.77	68	285	0.7	0.3	15.2	1.5	81.3	1.27	gluten-free	lactose-free	fructose	
+Traubenkernöl	27.77	5.77	900	3769	0	100	0	0	0	0	gluten-free	lactose-free	low-fructose	
+Traubensaft (ungezuckert)	27.77	5.77	68	285	0.2	0	16.6	1	82.5	1.38	low-gluten	lactose-free	fructose	
+Traubenzucker (Glukose)	87.77	25.77	405	1696	0	0	99	1	0	8.25	gluten-free	lactose-free	fructose	
+Vollkorn- oder Kleiebrot	27.77	15.77	274	1147	20.7	16	20.2	15	 	1.68	gluten	low-lactose	fructose	
+Vollkornbrot	27.77	25.77	294	1231	9	1.7	59.7	14	13.7	4.98	gluten	low-lactose	fructose	
+Vollkornbrot, fein	67.77	25.77	230	963	8.6	1.5	44.7	0	 	3.73	gluten	low-lactose	fructose	
+Vollkornmüsli ohne Zucker	27.77	25.77	342	1432	10	4.6	65.1	10	 	5.43	gluten	low-lactose	low-fructose	
+Vollkorntoast, ohne Zucker	27.77	25.77	260	1089	6.9	4.5	48	3.6	36	4	gluten	low-lactose	low-fructose	
+Wachtel	27.77	5.77	110	461	22.2	2.4	0	0	74	0	gluten-free	lactose-free	fructose-free	
+Waffeln	87.77	25.77	291	1219	8	14	33	0.8	4	2.75	gluten	low-lactose	low-fructose	
+Walnuss	27.77	5.77	663	2776	14.4	62.5	10	6	5	0.83	gluten-free	lactose-free	fructose-free	
+Walnussöl	27.77	5.77	900	3769	0	100	0	0	0	0	gluten-free	lactose-free	fructose-free	
+Wasser	27.77	5.77	0	0	0	0	0	0	99.8	0	gluten-free	lactose-free	fructose-free	
+Wassermelone	67.77	5.77	38	159	0.6	0.2	8.3	0.2	90.1	0.69	gluten-free	lactose-free	low-fructose	
+Weißbrot	67.77	25.77	236	988	8.2	1.2	48	3	39	4	gluten	low-lactose	low-fructose	
+Weißbrot (Toast)	67.77	25.77	235	984	7.1	1.3	48.1	3	39	4.01	gluten	low-lactose	low-fructose	
+Weißbrot ohne Gluten	87.77	25.77	243	1018	1.1	1.8	54.7	1.6	39.8	4.56	gluten-free	low-lactose	low-fructose	
+Weiße Rübe, roh	27.77	5.77	25	105	1	0.2	4.7	3.5	90.5	0.39	gluten-free	lactose-free	low-fructose	
+Weißkohl	27.77	5.77	24	101	1.3	0.2	4.2	3	90.4	0.35	gluten-free	lactose-free	fructose	
+Weißmehl	87.77	25.77	335	1403	10.6	1	71	4	14.1	5.92	gluten	lactose-free	fructose-free	
+Weißwein	27.77	5.77	70	293	0.1	0	2.6	1	85	0.22	gluten-free	low-lactose	fructose	
+Weißwurst	27.77	5.77	287	1202	11.1	27	0	 	59.9	0	low-gluten	low-lactose	low-fructose	
+Weihnachtsstollen	87.77	25.77	346	1449	5.8	13	51.5	4.1	25	4.29	gluten	low-lactose	low-fructose	
+Weintrauben	67.77	5.77	68	285	0.7	0.3	15.2	1.5	81.3	1.27	gluten-free	lactose-free	fructose	
+Weintrauben, Saft	67.77	15.77	68	285	0.2	0	16.6	0	82.5	1.38	low-gluten	lactose-free	fructose	
+Weizenbier	87.77	5.77	46	193	0.5	0	3	0	92	0.25	gluten	low-lactose	fructose	
+Weizenflocken	67.77	25.77	313	1311	11.5	2	61.1	10	13	5.09	gluten	lactose-free	fructose-free	
+Weizenkeimöl	27.77	5.77	900	3769	0	100	0	0	0	0	gluten	lactose-free	fructose-free	
+Weizenkeime	67.77	15.77	313	1311	26.6	9.2	30.6	17.7	12	2.55	gluten	lactose-free	fructose-free	
+Weizenmehl Type 1050	27.77	15.77	331	1386	11.6	1.8	67	5.2	13.7	5.58	gluten	lactose-free	fructose-free	
+Weizenmehl Type 405	67.77	25.77	335	1403	10.6	1	71	4	14.1	5.92	gluten	lactose-free	fructose-free	
+Weizenmehl Type 550	67.77	25.77	337	1411	10.9	1.1	70.8	4.1	13.7	5.9	gluten	lactose-free	fructose-free	
+Weizenmischbrot	67.77	25.77	224	938	6.7	1.1	47.7	4.6	40	3.98	gluten	low-lactose	low-fructose	
+Weizenstärke	87.77	25.77	347	1453	0.4	0.1	86	0	12.3	7.17	gluten	lactose-free	low-fructose	
+Whisky	27.77	5.77	247	1034	 	 	0	0	65	0	gluten	lactose-free	fructose-free	
+Wienerle	27.77	5.77	296	1240	10.2	28.3	0	0.1	56.4	0	low-gluten	low-lactose	low-fructose	
+Wildreis	27.77	25.77	338	1415	7	2	73	3	13	6.08	gluten-free	lactose-free	fructose-free	
+Wildschwein	27.77	5.77	162	678	19.5	9.2	0	0	70	0	gluten-free	lactose-free	fructose-free	
+Wirsing	27.77	5.77	32	134	3	0.4	4.1	2	90	0.34	gluten-free	lactose-free	fructose	
+Yamswurzel	67.77	15.77	191	800	2	0.1	22.4	5.6	68.6	1.87	gluten-free	lactose-free	fructose-free	
+Zander	27.77	5.77	83	348	19.2	0.7	0	0	78	0	gluten-free	lactose-free	fructose-free	
+Zaziki	27.77	5.77	101	423	4.7	7	4.7	 	 	0.39	low-gluten	lactose	low-fructose	
+Ziege, Fleisch	27.77	5.77	149	624	19.5	7.9	0	0	7	0	gluten-free	lactose-free	fructose-free	
+Ziegenkäse fest 48%	27.77	5.77	329	1378	21.9	27	0	0	46	0	gluten-free	low-lactose	fructose-free	
+Ziegenkäse, weich 45%	27.77	5.77	280	1173	21	21.8	0	0	54	0	gluten-free	low-lactose	fructose-free	
+Zitrone	27.77	5.77	36	151	0.7	0.6	3.2	0	89.3	0.27	gluten-free	lactose-free	fructose-free	
+Zitronensaft, ohne Zucker	27.77	5.77	27	113	0.4	0.1	2.4	0	91	0.2	gluten-free	lactose-free	low-fructose	
+Zucchini	27.77	5.77	19	80	1.6	0.4	2.2	1.1	93	0.18	gluten-free	lactose-free	fructose-free	
+Zucker (Saccharose)	67.77	25.77	400	1675	0	0	100	0	0	8.33	gluten-free	lactose-free	fructose	
+Zuckermais, roh	67.77	5.77	90	377	3	1.2	8	4	83	0.67	gluten-free	lactose-free	fructose	
+Zuckermelone	67.77	5.77	54	226	0.9	0.1	12.4	0.7	85.4	1.03	gluten-free	lactose-free	fructose	
+Zwetschgen	27.77	5.77	49	205	0.5	0.2	10	1.6	83.2	0.83	gluten-free	lactose-free	fructose	
+Zwieback	67.77	25.77	368	1541	10	4	73.1	3.5	8.5	6.09	gluten	low-lactose	low-fructose	
+Zwiebeln	27.77	5.77	28	117	1.3	0.3	4.9	1.8	88	0.41	gluten-free	lactose-free	low-fructose	

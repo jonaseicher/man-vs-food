@@ -1,0 +1,17 @@
+lactose-free
+carb-free
+fat-free
+low-fat
+low-carb
+gluten-free
+bread
+vegetable
+fruit
+fish
+meat
+pasta
+nut
+breakfast
+lunch
+dinner
+snack
