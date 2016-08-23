@@ -55,11 +55,11 @@ environments:
           connectionString: "mongodb://192.168.178.116:27017/test"
     production:
       grails:
-        mongodb:
-          connectionString: "mongodb://192.168.178.116:27017/production"
+        mongodb: 
+          host: "localhost"
+          port: 27017
+          databaseName: production
 
-
----
 ---
 grails:
     profile: web
