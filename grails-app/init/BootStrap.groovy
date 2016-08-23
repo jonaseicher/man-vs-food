@@ -11,8 +11,8 @@ class BootStrap {
 		list << new User(name:'Jonas', email:'bart@lol.de')
 		list << new User(name:'Tommy', email:'bus@crash.de')
 		
-		new File('data/usertags.txt').eachLine { list << new UserTag(name:it) }
-		new File('data/foodtags.txt').eachLine { list << new FoodTag(name:it) }
+		getClass().getResourceAsStream("usertags.txt").eachLine { list << new UserTag(name:it) }
+		getClass().getResourceAsStream("foodtags.txt").eachLine { list << new FoodTag(name:it) }
 		list << new Food(name:'Cashews',description:'Raw Cashew nuts', fat:52f, carbs:21f, protein:12f, kcal:580f )
 		
 		list.each {
